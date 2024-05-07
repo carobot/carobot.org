@@ -1,3 +1,5 @@
+# Executive Team
+
 ## Jacky Lau
 #### Executive Chairman & President
 Jacky is a former manager at CARobotix Inc. (Canada Robotix). He has a strong passion in robotics education. Jacky attended the University of Toronto, where he attained both his B.A.Sc. in mechanical engineering and M.A.Sc. in mechanical engineering. Upon graduation, he joined Canada Robotix and has actively engaged in robotics development and education activities. Jacky is also a volunteer with the Education Committee of the Professional Engineers Ontario (PEO) York Chapter, and helps to create and organize Design Challenges for Grade 6-8 students. Jacky has been an executive since 2016.

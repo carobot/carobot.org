@@ -1,0 +1,24 @@
+{
+  "id": "directors-and-execs/Executives",
+  "title": "Executive Team",
+  "description": "Jacky Lau",
+  "source": "@site/docs/directors-and-execs/Executives.md",
+  "sourceDirName": "directors-and-execs",
+  "slug": "/directors-and-execs/Executives",
+  "permalink": "/docs/directors-and-execs/Executives",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/directors-and-execs/Executives.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "navigationSidebar",
+  "previous": {
+    "title": "Board of Directors",
+    "permalink": "/docs/directors-and-execs/Directors"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

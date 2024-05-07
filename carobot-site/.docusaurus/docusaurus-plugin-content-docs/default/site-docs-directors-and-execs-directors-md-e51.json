@@ -1,0 +1,24 @@
+{
+  "id": "directors-and-execs/Directors",
+  "title": "Board of Directors",
+  "description": "Jacky Lau",
+  "source": "@site/docs/directors-and-execs/Directors.md",
+  "sourceDirName": "directors-and-execs",
+  "slug": "/directors-and-execs/Directors",
+  "permalink": "/docs/directors-and-execs/Directors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/directors-and-execs/Directors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "navigationSidebar",
+  "previous": {
+    "title": "Meet the Directors and Executives",
+    "permalink": "/docs/category/meet-the-directors-and-executives"
+  },
+  "next": {
+    "title": "Executive Team",
+    "permalink": "/docs/directors-and-execs/Executives"
+  }
+}
