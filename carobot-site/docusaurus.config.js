@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Carobot Learning',
+  tagline: 'STEM Outreach and Education',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Carobot Learning', // Usually your GitHub org/user name.
+  projectName: 'carobot.org', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -74,9 +74,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'navigationSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'About Us',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -90,11 +90,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'About Us',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Our Mission',
+                to: '/docs/about-us',
               },
             ],
           },
