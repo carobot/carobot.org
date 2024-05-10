@@ -16,69 +16,27 @@
               "sidebar": "navigationSidebar"
             },
             {
-              "id": "directors-and-execs/Directors",
-              "path": "/docs/directors-and-execs/Directors",
+              "id": "Directors and Executives/Directors",
+              "path": "/docs/Directors and Executives/Directors",
               "sidebar": "navigationSidebar"
             },
             {
-              "id": "directors-and-execs/Executives",
-              "path": "/docs/directors-and-execs/Executives",
-              "sidebar": "navigationSidebar"
-            },
-            {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
-              "sidebar": "navigationSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
-              "sidebar": "navigationSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
-              "sidebar": "navigationSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
-              "sidebar": "navigationSidebar"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "navigationSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "Directors and Executives/Executives",
+              "path": "/docs/Directors and Executives/Executives",
               "sidebar": "navigationSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "navigationSidebar"
+              "path": "/docs/tutorial-extras/manage-docs-versions"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
-              "sidebar": "navigationSidebar"
+              "path": "/docs/tutorial-extras/translate-your-site"
             },
             {
-              "id": "/category/meet-the-directors-and-executives",
-              "path": "/docs/category/meet-the-directors-and-executives",
-              "sidebar": "navigationSidebar"
-            },
-            {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
-              "sidebar": "navigationSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
-              "sidebar": "navigationSidebar"
+              "id": "tutorials/CarduBlock-Edu-Tutorial",
+              "path": "/docs/tutorials/CarduBlock-Edu-Tutorial",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
@@ -87,6 +45,12 @@
               "link": {
                 "path": "/docs/about-us",
                 "label": "about-us"
+              }
+            },
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/tutorials/CarduBlock-Edu-Tutorial",
+                "label": "tutorials/CarduBlock-Edu-Tutorial"
               }
             }
           }

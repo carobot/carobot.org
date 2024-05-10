@@ -98,21 +98,16 @@ export default [
     exact: true
   },
   {
-    path: '/support',
-    component: ComponentCreator('/support', '603'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs', 'bba'),
+    component: ComponentCreator('/docs', '619'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '421'),
+        component: ComponentCreator('/docs', 'b55'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2ff'),
+            component: ComponentCreator('/docs', '56a'),
             routes: [
               {
                 path: '/docs/about-us',
@@ -121,82 +116,32 @@ export default [
                 sidebar: "navigationSidebar"
               },
               {
-                path: '/docs/category/meet-the-directors-and-executives',
-                component: ComponentCreator('/docs/category/meet-the-directors-and-executives', 'f4a'),
+                path: '/docs/Directors and Executives/Directors',
+                component: ComponentCreator('/docs/Directors and Executives/Directors', '3fd'),
                 exact: true,
                 sidebar: "navigationSidebar"
               },
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', '686'),
-                exact: true,
-                sidebar: "navigationSidebar"
-              },
-              {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '104'),
-                exact: true,
-                sidebar: "navigationSidebar"
-              },
-              {
-                path: '/docs/directors-and-execs/Directors',
-                component: ComponentCreator('/docs/directors-and-execs/Directors', 'f9d'),
-                exact: true,
-                sidebar: "navigationSidebar"
-              },
-              {
-                path: '/docs/directors-and-execs/Executives',
-                component: ComponentCreator('/docs/directors-and-execs/Executives', 'baa'),
-                exact: true,
-                sidebar: "navigationSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '477'),
-                exact: true,
-                sidebar: "navigationSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', 'a48'),
-                exact: true,
-                sidebar: "navigationSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '133'),
-                exact: true,
-                sidebar: "navigationSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '8f0'),
-                exact: true,
-                sidebar: "navigationSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'ce6'),
-                exact: true,
-                sidebar: "navigationSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'e13'),
+                path: '/docs/Directors and Executives/Executives',
+                component: ComponentCreator('/docs/Directors and Executives/Executives', '4bf'),
                 exact: true,
                 sidebar: "navigationSidebar"
               },
               {
                 path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'eb3'),
-                exact: true,
-                sidebar: "navigationSidebar"
+                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'a34'),
+                exact: true
               },
               {
                 path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '627'),
+                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '739'),
+                exact: true
+              },
+              {
+                path: '/docs/tutorials/CarduBlock-Edu-Tutorial',
+                component: ComponentCreator('/docs/tutorials/CarduBlock-Edu-Tutorial', 'e3b'),
                 exact: true,
-                sidebar: "navigationSidebar"
+                sidebar: "tutorialSidebar"
               }
             ]
           }

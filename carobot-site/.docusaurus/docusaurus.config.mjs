@@ -6,7 +6,7 @@
 export default {
   "title": "Carobot Learning",
   "tagline": "STEM Outreach and Education",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/carobot.png",
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
   "organizationName": "Carobot Learning",
@@ -40,12 +40,11 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "...img/carobot.png",
     "navbar": {
-      "title": "My Site",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "Carobot",
+        "src": "img/carobotLogo.png"
       },
       "items": [
         {
@@ -53,6 +52,12 @@ export default {
           "sidebarId": "navigationSidebar",
           "position": "left",
           "label": "About Us"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarId": "tutorialSidebar",
+          "position": "left",
+          "label": "Tutorials"
         },
         {
           "to": "/blog",
@@ -110,7 +115,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2024 Carobot Org."
     },
     "prism": {
       "theme": {
@@ -316,6 +321,7 @@ export default {
         }
       ]
     },
+    "sidebarPath": "C:\\Users\\msalo\\OneDrive\\Documents\\GitHub\\carobot.org\\carobot-site\\sidebars.js",
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
