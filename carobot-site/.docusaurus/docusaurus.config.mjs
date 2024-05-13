@@ -60,14 +60,14 @@ export default {
           "label": "Tutorials"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
+          "to": "docs/contact/contact-us",
+          "label": "Contact Us",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
+          "to": "/blog",
+          "label": "Blog",
+          "position": "left"
         }
       ],
       "hideOnScroll": false
@@ -85,32 +85,23 @@ export default {
           ]
         },
         {
-          "title": "Community",
+          "title": "Contact Us",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "Instagram",
+              "href": "https://www.instagram.com/carobotorg/"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "Email",
+              "href": "mailto: info@carobot.org"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "Facebook",
+              "href": "https://www.facebook.com/carobotorg/"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "X",
+              "href": "https://twitter.com/carobotorg"
             }
           ]
         }
