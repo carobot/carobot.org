@@ -99,21 +99,26 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '619'),
+    component: ComponentCreator('/docs', 'adf'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b55'),
+        component: ComponentCreator('/docs', 'fbf'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '56a'),
+            component: ComponentCreator('/docs', 'd43'),
             routes: [
               {
                 path: '/docs/about-us',
                 component: ComponentCreator('/docs/about-us', '64f'),
                 exact: true,
                 sidebar: "navigationSidebar"
+              },
+              {
+                path: '/docs/contact/contact-us',
+                component: ComponentCreator('/docs/contact/contact-us', '66c'),
+                exact: true
               },
               {
                 path: '/docs/Directors and Executives/Directors',

@@ -23,15 +23,15 @@
   "hasTruncateMarker": false,
   "authors": [
     {
-      "name": "Sébastien Lorber",
+      "name": "Maria Salonga",
       "title": "Docusaurus maintainer",
       "url": "https://sebastienlorber.com",
       "imageURL": "https://github.com/slorber.png",
       "key": "slorber"
     },
     {
-      "name": "Yangshun Tay",
-      "title": "Front End Engineer @ Facebook",
+      "name": "Graham Green",
+      "title": "Executive Member",
       "url": "https://github.com/yangshun",
       "imageURL": "https://github.com/yangshun.png",
       "key": "yangshun"

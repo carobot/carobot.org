@@ -1,10 +1,13 @@
-// @ts-check
+// @ts-nocheck
 // `@type` JSDoc annotations allow editor autocompletion and type checking
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from 'prism-react-renderer';
+import React from 'react';
+
+
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -81,17 +84,23 @@ const config = {
           position: 'left',
           label: 'Tutorials',
         },
+        {
+          to: 'docs/contact/contact-us',
+          label: 'Contact Us',
+          position: 'left'
+        },
 
         // Add more navigation links as needed here
-
+        
         /* {to: '/tutorials', label: 'Tutorials', position: 'left'}, */
         { to: '/blog', label: 'Blog', position: 'left' },
 
+        /* This link isnt really needed but we could add our own repo here
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
           position: 'right',
-        },
+        }, */
       ],
     },
     footer: {
@@ -107,32 +116,23 @@ const config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Contact Us',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: "Instagram",
+              href: 'https://www.instagram.com/carobotorg/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Email',
+              href: 'mailto: info@carobot.org',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/carobotorg/',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'X',
+              href: 'https://twitter.com/carobotorg',
             },
           ],
         },

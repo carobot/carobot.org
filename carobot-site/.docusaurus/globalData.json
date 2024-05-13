@@ -16,6 +16,10 @@
               "sidebar": "navigationSidebar"
             },
             {
+              "id": "contact/contact-us",
+              "path": "/docs/contact/contact-us"
+            },
+            {
               "id": "Directors and Executives/Directors",
               "path": "/docs/Directors and Executives/Directors",
               "sidebar": "navigationSidebar"
