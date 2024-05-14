@@ -11,19 +11,19 @@ import React from 'react';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Carobot Learning',
+  title: 'Carobot Learning and Research Organization',
   tagline: 'STEM Outreach and Education',
   favicon: 'img/carobot.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://carobot.org/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/carobot.org/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Carobot Learning', // Usually your GitHub org/user name.
+  organizationName: 'Carobot', // Usually your GitHub org/user name.
   projectName: 'carobot.org', // Usually your repo name.
 
   onBrokenLinks: 'throw',
