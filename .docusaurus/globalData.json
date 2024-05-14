@@ -1,45 +1,45 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/carobot.org/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/carobot.org/docs",
+          "path": "/docs",
           "mainDocId": "about-us",
           "docs": [
             {
               "id": "about-us",
-              "path": "/carobot.org/docs/about-us",
+              "path": "/docs/about-us",
               "sidebar": "navigationSidebar"
             },
             {
               "id": "contact/contact-us",
-              "path": "/carobot.org/docs/contact/contact-us"
+              "path": "/docs/contact/contact-us"
             },
             {
               "id": "Directors and Executives/Directors",
-              "path": "/carobot.org/docs/Directors and Executives/Directors",
+              "path": "/docs/Directors and Executives/Directors",
               "sidebar": "navigationSidebar"
             },
             {
               "id": "Directors and Executives/Executives",
-              "path": "/carobot.org/docs/Directors and Executives/Executives",
+              "path": "/docs/Directors and Executives/Executives",
               "sidebar": "navigationSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/carobot.org/docs/tutorial-extras/manage-docs-versions"
+              "path": "/docs/tutorial-extras/manage-docs-versions"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/carobot.org/docs/tutorial-extras/translate-your-site"
+              "path": "/docs/tutorial-extras/translate-your-site"
             },
             {
               "id": "tutorials/CarduBlock-Edu-Tutorial",
-              "path": "/carobot.org/docs/tutorials/CarduBlock-Edu-Tutorial",
+              "path": "/docs/tutorials/CarduBlock-Edu-Tutorial",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -47,13 +47,13 @@
           "sidebars": {
             "navigationSidebar": {
               "link": {
-                "path": "/carobot.org/docs/about-us",
+                "path": "/docs/about-us",
                 "label": "about-us"
               }
             },
             "tutorialSidebar": {
               "link": {
-                "path": "/carobot.org/docs/tutorials/CarduBlock-Edu-Tutorial",
+                "path": "/docs/tutorials/CarduBlock-Edu-Tutorial",
                 "label": "tutorials/CarduBlock-Edu-Tutorial"
               }
             }

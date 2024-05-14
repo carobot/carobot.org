@@ -1,5 +1,5 @@
 {
-  "permalink": "/carobot.org/blog/first-blog-post",
+  "permalink": "/blog/first-blog-post",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
   "source": "@site/blog/2019-05-28-first-blog-post.md",
   "title": "First Blog Post",
@@ -8,34 +8,28 @@
   "tags": [
     {
       "label": "hola",
-      "permalink": "/carobot.org/blog/tags/hola"
+      "permalink": "/blog/tags/hola"
     },
     {
       "label": "docusaurus",
-      "permalink": "/carobot.org/blog/tags/docusaurus"
+      "permalink": "/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.12,
   "hasTruncateMarker": false,
   "authors": [
     {
-      "name": "Gao Wei",
-      "title": "Docusaurus Core Team",
-      "url": "https://github.com/wgao19",
-      "image_url": "https://github.com/wgao19.png",
-      "imageURL": "https://github.com/wgao19.png"
+      "name": "Jacky Lau",
+      "title": "Executive Member",
+      "url": "https://www.linkedin.com/in/jackykklau/",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTxOGl6B85tJUmTySnQjP3amFBzy4G0dff2mgVEbYsA&s",
+      "key": "jlau"
     }
   ],
   "frontMatter": {
     "slug": "first-blog-post",
     "title": "First Blog Post",
-    "authors": {
-      "name": "Gao Wei",
-      "title": "Docusaurus Core Team",
-      "url": "https://github.com/wgao19",
-      "image_url": "https://github.com/wgao19.png",
-      "imageURL": "https://github.com/wgao19.png"
-    },
+    "authors": "jlau",
     "tags": [
       "hola",
       "docusaurus"
@@ -44,6 +38,6 @@
   "unlisted": false,
   "prevItem": {
     "title": "Long Blog Post",
-    "permalink": "/carobot.org/blog/long-blog-post"
+    "permalink": "/blog/long-blog-post"
   }
 }

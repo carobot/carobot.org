@@ -8,7 +8,7 @@ export default {
   "tagline": "STEM Outreach and Education",
   "favicon": "img/carobot.png",
   "url": "https://carobot.org",
-  "baseUrl": "/carobot.org/",
+  "baseUrl": "/",
   "organizationName": "Carobot",
   "projectName": "carobot.org",
   "onBrokenLinks": "throw",

@@ -1,5 +1,5 @@
 {
-  "/carobot.org/blog-182": {
+  "/blog-e21": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "05050b3c"
+    "__props": "53a3e6dc"
   },
-  "/carobot.org/blog/archive-329": {
+  "/blog/archive-245": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "36994c47"
     },
-    "__props": "3edb8237"
+    "__props": "25003e4f"
   },
-  "/carobot.org/blog/first-blog-post-82b": {
+  "/blog/first-blog-post-89a": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -39,7 +39,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/carobot.org/blog/long-blog-post-fc3": {
+  "/blog/long-blog-post-9ad": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -50,7 +50,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/carobot.org/blog/mdx-blog-post-64c": {
+  "/blog/mdx-blog-post-e9f": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -61,15 +61,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/carobot.org/blog/tags-6c8": {
+  "/blog/tags-4c4": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "1b3ca3c9"
+    "__props": "41756ce8"
   },
-  "/carobot.org/blog/tags/docusaurus-a7f": {
+  "/blog/tags/docusaurus-fb9": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -89,9 +89,9 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "677c80a1"
+    "__props": "f752113f"
   },
-  "/carobot.org/blog/tags/facebook-d09": {
+  "/blog/tags/facebook-aba": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -102,9 +102,9 @@
         "content": "7661071f"
       }
     ],
-    "__props": "07d135d2"
+    "__props": "a3226c22"
   },
-  "/carobot.org/blog/tags/hello-37d": {
+  "/blog/tags/hello-41a": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -118,9 +118,9 @@
         "content": "8717b14a"
       }
     ],
-    "__props": "2f64eba9"
+    "__props": "9d2a5b67"
   },
-  "/carobot.org/blog/tags/hola-edd": {
+  "/blog/tags/hola-8e5": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -131,9 +131,9 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "3fc6161c"
+    "__props": "fbc76f6c"
   },
-  "/carobot.org/blog/welcome-b69": {
+  "/blog/welcome-d2b": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -144,55 +144,55 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/carobot.org/markdown-page-7f8": {
+  "/markdown-page-3d7": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/carobot.org/docs-4a9": {
+  "/docs-adf": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/carobot.org/docs-27a": {
+  "/docs-fbf": {
     "__comp": "a7bd4aaa",
-    "__props": "3b6c14aa"
+    "__props": "7c110bd0"
   },
-  "/carobot.org/docs-51e": {
+  "/docs-d43": {
     "__comp": "a94703ab"
   },
-  "/carobot.org/docs/about-us-a97": {
+  "/docs/about-us-64f": {
     "__comp": "17896441",
     "content": "0dce1f1b"
   },
-  "/carobot.org/docs/contact/contact-us-5ce": {
+  "/docs/contact/contact-us-66c": {
     "__comp": "17896441",
     "content": "a9ba488c"
   },
-  "/carobot.org/docs/Directors and Executives/Directors-25e": {
+  "/docs/Directors and Executives/Directors-3fd": {
     "__comp": "17896441",
     "content": "70ad4aed"
   },
-  "/carobot.org/docs/Directors and Executives/Executives-e9f": {
+  "/docs/Directors and Executives/Executives-4bf": {
     "__comp": "17896441",
     "content": "903bc98b"
   },
-  "/carobot.org/docs/tutorial-extras/manage-docs-versions-979": {
+  "/docs/tutorial-extras/manage-docs-versions-a34": {
     "__comp": "17896441",
     "content": "dff1c289"
   },
-  "/carobot.org/docs/tutorial-extras/translate-your-site-251": {
+  "/docs/tutorial-extras/translate-your-site-739": {
     "__comp": "17896441",
     "content": "e44a2883"
   },
-  "/carobot.org/docs/tutorials/CarduBlock-Edu-Tutorial-cf4": {
+  "/docs/tutorials/CarduBlock-Edu-Tutorial-e3b": {
     "__comp": "17896441",
     "content": "fa10bee5"
   },
-  "/carobot.org/-eda": {
+  "/-2e1": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"

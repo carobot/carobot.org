@@ -3,113 +3,113 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/carobot.org/blog',
-    component: ComponentCreator('/carobot.org/blog', '182'),
+    path: '/blog',
+    component: ComponentCreator('/blog', 'e21'),
     exact: true
   },
   {
-    path: '/carobot.org/blog/archive',
-    component: ComponentCreator('/carobot.org/blog/archive', '329'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive', '245'),
     exact: true
   },
   {
-    path: '/carobot.org/blog/first-blog-post',
-    component: ComponentCreator('/carobot.org/blog/first-blog-post', '82b'),
+    path: '/blog/first-blog-post',
+    component: ComponentCreator('/blog/first-blog-post', '89a'),
     exact: true
   },
   {
-    path: '/carobot.org/blog/long-blog-post',
-    component: ComponentCreator('/carobot.org/blog/long-blog-post', 'fc3'),
+    path: '/blog/long-blog-post',
+    component: ComponentCreator('/blog/long-blog-post', '9ad'),
     exact: true
   },
   {
-    path: '/carobot.org/blog/mdx-blog-post',
-    component: ComponentCreator('/carobot.org/blog/mdx-blog-post', '64c'),
+    path: '/blog/mdx-blog-post',
+    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
     exact: true
   },
   {
-    path: '/carobot.org/blog/tags',
-    component: ComponentCreator('/carobot.org/blog/tags', '6c8'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags', '4c4'),
     exact: true
   },
   {
-    path: '/carobot.org/blog/tags/docusaurus',
-    component: ComponentCreator('/carobot.org/blog/tags/docusaurus', 'a7f'),
+    path: '/blog/tags/docusaurus',
+    component: ComponentCreator('/blog/tags/docusaurus', 'fb9'),
     exact: true
   },
   {
-    path: '/carobot.org/blog/tags/facebook',
-    component: ComponentCreator('/carobot.org/blog/tags/facebook', 'd09'),
+    path: '/blog/tags/facebook',
+    component: ComponentCreator('/blog/tags/facebook', 'aba'),
     exact: true
   },
   {
-    path: '/carobot.org/blog/tags/hello',
-    component: ComponentCreator('/carobot.org/blog/tags/hello', '37d'),
+    path: '/blog/tags/hello',
+    component: ComponentCreator('/blog/tags/hello', '41a'),
     exact: true
   },
   {
-    path: '/carobot.org/blog/tags/hola',
-    component: ComponentCreator('/carobot.org/blog/tags/hola', 'edd'),
+    path: '/blog/tags/hola',
+    component: ComponentCreator('/blog/tags/hola', '8e5'),
     exact: true
   },
   {
-    path: '/carobot.org/blog/welcome',
-    component: ComponentCreator('/carobot.org/blog/welcome', 'b69'),
+    path: '/blog/welcome',
+    component: ComponentCreator('/blog/welcome', 'd2b'),
     exact: true
   },
   {
-    path: '/carobot.org/markdown-page',
-    component: ComponentCreator('/carobot.org/markdown-page', '7f8'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
   },
   {
-    path: '/carobot.org/docs',
-    component: ComponentCreator('/carobot.org/docs', '4a9'),
+    path: '/docs',
+    component: ComponentCreator('/docs', 'adf'),
     routes: [
       {
-        path: '/carobot.org/docs',
-        component: ComponentCreator('/carobot.org/docs', '27a'),
+        path: '/docs',
+        component: ComponentCreator('/docs', 'fbf'),
         routes: [
           {
-            path: '/carobot.org/docs',
-            component: ComponentCreator('/carobot.org/docs', '51e'),
+            path: '/docs',
+            component: ComponentCreator('/docs', 'd43'),
             routes: [
               {
-                path: '/carobot.org/docs/about-us',
-                component: ComponentCreator('/carobot.org/docs/about-us', 'a97'),
+                path: '/docs/about-us',
+                component: ComponentCreator('/docs/about-us', '64f'),
                 exact: true,
                 sidebar: "navigationSidebar"
               },
               {
-                path: '/carobot.org/docs/contact/contact-us',
-                component: ComponentCreator('/carobot.org/docs/contact/contact-us', '5ce'),
+                path: '/docs/contact/contact-us',
+                component: ComponentCreator('/docs/contact/contact-us', '66c'),
                 exact: true
               },
               {
-                path: '/carobot.org/docs/Directors and Executives/Directors',
-                component: ComponentCreator('/carobot.org/docs/Directors and Executives/Directors', '25e'),
+                path: '/docs/Directors and Executives/Directors',
+                component: ComponentCreator('/docs/Directors and Executives/Directors', '3fd'),
                 exact: true,
                 sidebar: "navigationSidebar"
               },
               {
-                path: '/carobot.org/docs/Directors and Executives/Executives',
-                component: ComponentCreator('/carobot.org/docs/Directors and Executives/Executives', 'e9f'),
+                path: '/docs/Directors and Executives/Executives',
+                component: ComponentCreator('/docs/Directors and Executives/Executives', '4bf'),
                 exact: true,
                 sidebar: "navigationSidebar"
               },
               {
-                path: '/carobot.org/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/carobot.org/docs/tutorial-extras/manage-docs-versions', '979'),
+                path: '/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'a34'),
                 exact: true
               },
               {
-                path: '/carobot.org/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/carobot.org/docs/tutorial-extras/translate-your-site', '251'),
+                path: '/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '739'),
                 exact: true
               },
               {
-                path: '/carobot.org/docs/tutorials/CarduBlock-Edu-Tutorial',
-                component: ComponentCreator('/carobot.org/docs/tutorials/CarduBlock-Edu-Tutorial', 'cf4'),
+                path: '/docs/tutorials/CarduBlock-Edu-Tutorial',
+                component: ComponentCreator('/docs/tutorials/CarduBlock-Edu-Tutorial', 'e3b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -120,8 +120,8 @@ export default [
     ]
   },
   {
-    path: '/carobot.org/',
-    component: ComponentCreator('/carobot.org/', 'eda'),
+    path: '/',
+    component: ComponentCreator('/', '2e1'),
     exact: true
   },
   {
