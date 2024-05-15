@@ -11,12 +11,14 @@ M5T 1G5
 
 ## Socials
 
-[
-  [![Instagram](img/instagram.png)](https://www.instagram.com/carobotorg/),
-  [![Email](img/email.png)](mailto:info@carobot.org),
-  [![Facebook](img/facebook.png)](https://www.facebook.com/carobotorg/),
-  [![Twitter](img/X.png)](https://twitter.com/carobotorg)
-]
+<div style={{ display: 'flex', justifyContent: 'space-around', marginTop: '20px' }}>
+  <a href="https://www.instagram.com/carobotorg/"><img src="img/instagram.png" alt="Instagram" style={{ width: '50px', height: 'auto' }} /></a>
+  <a href="mailto:info@carobot.org"><img src="img/email.png" alt="Email" style={{ width: '50px', height: 'auto' }} /></a>
+  <a href="https://www.facebook.com/carobotorg/"><img src="img/facebook.png" alt="Facebook" style={{ width: '50px', height: 'auto' }} /></a>
+  <a href="https://twitter.com/carobotorg"><img src="img/X.png" alt="Twitter" style={{ width: '50px', height: 'auto' }} /></a>
+</div>
+
+
 
 <!-- [
 [![Instagram](img/instagram.png)](https://www.instagram.com/carobotorg/)
