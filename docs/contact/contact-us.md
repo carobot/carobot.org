@@ -11,22 +11,12 @@ M5T 1G5
 
 ## Socials
 
-[
-  [![Instagram](img/instagram.png)](https://www.instagram.com/carobotorg/),
-  [![Email](img/email.png)](mailto:info@carobot.org),
-  [![Facebook](img/facebook.png)](https://www.facebook.com/carobotorg/),
-  [![Twitter](img/X.png)](https://twitter.com/carobotorg)
-]
+<div style={{ display: 'flex', justifyContent: 'space-around', marginTop: '20px' }}>
+  <a href="https://www.instagram.com/carobotorg/"><img src="https://img.icons8.com/material-outlined/70/instagram-new--v1.png" alt="Instagram" style={{ width: '50px', height: 'auto' }} /></a>
+  <a href="mailto:info@carobot.org"><img src="https://img.icons8.com/ios-glyphs/70/new-post.png" alt="Email" style={{ width: '50px', height: 'auto' }} /></a>
+  <a href="https://www.facebook.com/carobotorg/"><img src="https://img.icons8.com/material/70/facebook-new.png" alt="Facebook" style={{ width: '50px', height: 'auto' }} /></a>
+  <a href="https://twitter.com/carobotorg"><img src="https://img.icons8.com/material/70/twitterx--v1.png" alt="Twitter" style={{ width: '50px', height: 'auto' }} /></a>
+</div>
 
-<!-- [
-[![Instagram](img/instagram.png)](https://www.instagram.com/carobotorg/)
-
-[![Email](img/email.png)](mailto:info@carobot.org)
-
-[![Facebook](img/facebook.png)](https://www.facebook.com/carobotorg/)
-
-[![Twitter](img/X.png)](https://twitter.com/carobotorg)
-]
- -->
 
 <!-- We should also add a phone number if that's available? -->

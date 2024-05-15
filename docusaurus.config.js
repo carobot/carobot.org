@@ -8,22 +8,21 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import React from 'react';
 
 
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Carobot Learning',
+  title: 'Carobot Learning and Research Organization',
   tagline: 'STEM Outreach and Education',
   favicon: 'img/carobot.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://carobot.org/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Carobot Learning', // Usually your GitHub org/user name.
+  organizationName: 'Carobot', // Usually your GitHub org/user name.
   projectName: 'carobot.org', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -89,6 +88,12 @@ const config = {
           label: 'Contact Us',
           position: 'left'
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'projectsSidebar',
+          label: 'Projects',
+          position: 'left'
+        },
 
         // Add more navigation links as needed here
         
@@ -119,7 +124,7 @@ const config = {
           title: 'Contact Us',
           items: [
             {
-              label: "Instagram",
+              label: 'Instagram',
               href: 'https://www.instagram.com/carobotorg/',
             },
             {
@@ -137,6 +142,21 @@ const config = {
           ],
         },
       ],
+      /* logo: {
+        alt: 'Instagram',
+        src: 'https://img.icons8.com/windows/32/FFFFFF/instagram-new.png',
+        href: 'https://www.instagram.com/carobotorg/',
+      },
+       logo2: {
+        alt: 'Facebook',
+        src: 'https://img.icons8.com/color/32/000000/facebook-new.png',
+        href: 'https://www.facebook.com/carobotorg/',
+      },
+      logo3: {
+        alt: 'X',
+        src: 'https://img.icons8.com/ios/32/000000/twitterx--v2.png',
+        href: 'https://twitter.com/carobotorg',
+      }, */
       copyright: `Copyright © ${new Date().getFullYear()} Carobot Org.`,
     },
     prism: {

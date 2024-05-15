@@ -1,0 +1,23 @@
+{
+  "id": "about-us",
+  "title": "Our Mission",
+  "description": "CAROBOT Learning and Research Organization is an Ontario Not-for-Profit Organization dedicated to hosting free workshop and running structured revenue courses at educational institutions and libraries. We use our funding and revenue to develop our own hardware and software teaching tools as well as providing STEM education at a reduced price compared to private company. We also share some of our lessons so you can learn STEM on your own even if you cannot attend our workshops or courses.",
+  "source": "@site/docs/about-us.md",
+  "sourceDirName": ".",
+  "slug": "/about-us",
+  "permalink": "/docs/about-us",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/about-us.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "navigationSidebar",
+  "next": {
+    "title": "Board of Directors",
+    "permalink": "/docs/Directors and Executives/Directors"
+  }
+}

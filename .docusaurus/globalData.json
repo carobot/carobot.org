@@ -1,0 +1,107 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "about-us",
+          "docs": [
+            {
+              "id": "about-us",
+              "path": "/docs/about-us",
+              "sidebar": "navigationSidebar"
+            },
+            {
+              "id": "contact/contact-us",
+              "path": "/docs/contact/contact-us"
+            },
+            {
+              "id": "Directors and Executives/Directors",
+              "path": "/docs/Directors and Executives/Directors",
+              "sidebar": "navigationSidebar"
+            },
+            {
+              "id": "Directors and Executives/Executives",
+              "path": "/docs/Directors and Executives/Executives",
+              "sidebar": "navigationSidebar"
+            },
+            {
+              "id": "projects/Ant Robot",
+              "path": "/docs/projects/Ant Robot",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/Bat Robot",
+              "path": "/docs/projects/Bat Robot",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/Beetle Robot",
+              "path": "/docs/projects/Beetle Robot",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/Canada Goose Robot",
+              "path": "/docs/projects/Canada Goose Robot",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/Fly Robot",
+              "path": "/docs/projects/Fly Robot",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/Guard Dog Robot",
+              "path": "/docs/projects/Guard Dog Robot",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/Moth Robot",
+              "path": "/docs/projects/Moth Robot",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site"
+            },
+            {
+              "id": "tutorials/CarduBlock-Edu-Tutorial",
+              "path": "/docs/tutorials/CarduBlock-Edu-Tutorial",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "navigationSidebar": {
+              "link": {
+                "path": "/docs/about-us",
+                "label": "about-us"
+              }
+            },
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/tutorials/CarduBlock-Edu-Tutorial",
+                "label": "tutorials/CarduBlock-Edu-Tutorial"
+              }
+            },
+            "projectsSidebar": {
+              "link": {
+                "path": "/docs/projects/Ant Robot",
+                "label": "projects/Ant Robot"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

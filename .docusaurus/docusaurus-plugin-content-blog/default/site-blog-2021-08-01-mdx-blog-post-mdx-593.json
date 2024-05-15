@@ -1,0 +1,44 @@
+{
+  "permalink": "/blog/mdx-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+  "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+  "title": "MDX Blog Post",
+  "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+  "date": "2021-08-01T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 0.175,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Maria Salonga",
+      "title": "Docusaurus maintainer",
+      "url": "https://www.linkedin.com/in/maria-salonga-b89385248/",
+      "imageURL": "https://media.licdn.com/dms/image/D5603AQGlfemc4MOlTg/profile-displayphoto-shrink_800_800/0/1705888007364?e=2147483647&v=beta&t=EeYVXkrPQDtDrpePbke1DMpizphWc-VrwQN7jqNPxSY",
+      "key": "msalonga"
+    }
+  ],
+  "frontMatter": {
+    "slug": "mdx-blog-post",
+    "title": "MDX Blog Post",
+    "authors": [
+      "msalonga"
+    ],
+    "tags": [
+      "docusaurus"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Welcome to the CaroBlog!",
+    "permalink": "/blog/welcome"
+  },
+  "nextItem": {
+    "title": "Long Blog Post",
+    "permalink": "/blog/long-blog-post"
+  }
+}
