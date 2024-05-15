@@ -84,21 +84,20 @@ const config = {
           label: 'Tutorials',
         },
         {
-          to: 'docs/contact/contact-us',
-          label: 'Contact Us',
-          position: 'left'
-        },
-        {
           type: 'docSidebar',
           sidebarId: 'projectsSidebar',
           label: 'Projects',
           position: 'left'
         },
-
+        { to: '/blog', label: 'Blog', position: 'left' },
+        {
+          to: 'docs/contact/contact-us',
+          label: 'Contact Us',
+          position: 'left'
+        },
         // Add more navigation links as needed here
         
         /* {to: '/tutorials', label: 'Tutorials', position: 'left'}, */
-        { to: '/blog', label: 'Blog', position: 'left' },
 
         /* This link isnt really needed but we could add our own repo here
         {

@@ -60,11 +60,6 @@ export default {
           "label": "Tutorials"
         },
         {
-          "to": "docs/contact/contact-us",
-          "label": "Contact Us",
-          "position": "left"
-        },
-        {
           "type": "docSidebar",
           "sidebarId": "projectsSidebar",
           "label": "Projects",
@@ -73,6 +68,11 @@ export default {
         {
           "to": "/blog",
           "label": "Blog",
+          "position": "left"
+        },
+        {
+          "to": "docs/contact/contact-us",
+          "label": "Contact Us",
           "position": "left"
         }
       ],
