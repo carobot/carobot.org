@@ -9,15 +9,25 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Welcome]]></title>
+            <title><![CDATA[Welcome to the CaroBlog!]]></title>
             <link>https://carobot.org/blog/welcome</link>
             <guid>https://carobot.org/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to our blog section! We will be posting blogs regarding any events, classes, and tutorials we host! Pictures will also be shared throughout the blog posts.]]></description>
-            <content:encoded><![CDATA[<p>Welcome to our blog section! We will be posting blogs regarding any events, classes, and tutorials we host! Pictures will also be shared throughout the blog posts.</p>]]></content:encoded>
-            <category>facebook</category>
-            <category>hello</category>
-            <category>docusaurus</category>
+            <description><![CDATA[Hello and welcome to the Carobot Learning and Research Organization's blog! We are thrilled to have you here. Our blog is dedicated to sharing insightful articles, tutorials, and stories that ignite curiosity and foster a love for STEM (Science, Technology, Engineering, and Mathematics).]]></description>
+            <content:encoded><![CDATA[<p>Hello and welcome to the Carobot Learning and Research Organization's blog! We are thrilled to have you here. Our blog is dedicated to sharing insightful articles, tutorials, and stories that ignite curiosity and foster a love for STEM (Science, Technology, Engineering, and Mathematics).</p>
+<p>At Carobot, our mission is to make STEM education accessible and engaging for everyone. Whether you are a student, educator, parent, or simply someone passionate about learning, you'll find a wealth of resources here to inspire and support your journey in STEM.</p>
+<p>What You Can Expect from Our Blog:</p>
+<ul>
+<li><b>In-Depth Tutorials:</b> Step-by-step guides and tutorials on various STEM topics, from robotics and coding to engineering and scientific experiments.</li>
+<li><b>Educational Resources:</b> Access a variety of resources, including project ideas, lesson plans, and educational tools.
+Community Highlights: Discover the amazing work being done by our community members and learn how you can get involved.</li>
+</ul>
+<p>Thank you for visiting the Carobot Learning and Research Blog. We hope you find our content both informative and inspiring. Together, let's explore the wonders of STEM and make learning an exciting adventure!</p>
+<p>Happy learning!</p>
+<p>The Carobot Team</p>]]></content:encoded>
+            <category>Announcement</category>
+            <category>STEM</category>
+            <category>Outreach</category>
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>

@@ -8,7 +8,6 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import React from 'react';
 
 
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Carobot Learning and Research Organization',
@@ -119,7 +118,7 @@ const config = {
           title: 'Contact Us',
           items: [
             {
-              label: "Instagram",
+              label: 'Instagram',
               href: 'https://www.instagram.com/carobotorg/',
             },
             {
