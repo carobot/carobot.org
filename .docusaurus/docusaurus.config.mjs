@@ -94,20 +94,13 @@ export default {
           "title": "Contact Us",
           "items": [
             {
-              "label": "Instagram",
-              "href": "https://www.instagram.com/carobotorg/"
+              "html": "\n                <a href=\"https://www.instagram.com/carobotorg/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Instagram\">\n                  <img src=\"https://img.icons8.com/windows/32/FFFFFF/instagram-new.png\" alt=\"Instagram\" />\n                </a>\n              "
             },
             {
-              "label": "Email",
-              "href": "mailto: info@carobot.org"
+              "html": "\n                <a href=\"https://www.facebook.com/carobotorg/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Facebook\">\n                  <img src=\"https://img.icons8.com/windows/32/FFFFFF/facebook-new.png\" alt=\"Instagram\" />\n                </a>\n              "
             },
             {
-              "label": "Facebook",
-              "href": "https://www.facebook.com/carobotorg/"
-            },
-            {
-              "label": "X",
-              "href": "https://twitter.com/carobotorg"
+              "html": "\n                <a href=\"https://twitter.com/carobotorg\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"X\">\n                  <img src=\"https://img.icons8.com/ios/32/FFFFFF/twitterx--v2.png\" alt=\"X\" />\n                </a>\n              "
             }
           ]
         }

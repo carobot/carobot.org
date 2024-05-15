@@ -124,39 +124,29 @@ const config = {
           title: 'Contact Us',
           items: [
             {
-              label: 'Instagram',
-              href: 'https://www.instagram.com/carobotorg/',
+              html: `
+                <a href="https://www.instagram.com/carobotorg/" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
+                  <img src="https://img.icons8.com/windows/32/FFFFFF/instagram-new.png" alt="Instagram" />
+                </a>
+              `,
             },
             {
-              label: 'Email',
-              href: 'mailto: info@carobot.org',
+              html: `
+                <a href="https://www.facebook.com/carobotorg/" target="_blank" rel="noreferrer noopener" aria-label="Facebook">
+                  <img src="https://img.icons8.com/windows/32/FFFFFF/facebook-new.png" alt="Instagram" />
+                </a>
+              `,
             },
             {
-              label: 'Facebook',
-              href: 'https://www.facebook.com/carobotorg/',
-            },
-            {
-              label: 'X',
-              href: 'https://twitter.com/carobotorg',
+              html: `
+                <a href="https://twitter.com/carobotorg" target="_blank" rel="noreferrer noopener" aria-label="X">
+                  <img src="https://img.icons8.com/ios/32/FFFFFF/twitterx--v2.png" alt="X" />
+                </a>
+              `,
             },
           ],
         },
       ],
-      /* logo: {
-        alt: 'Instagram',
-        src: 'https://img.icons8.com/windows/32/FFFFFF/instagram-new.png',
-        href: 'https://www.instagram.com/carobotorg/',
-      },
-       logo2: {
-        alt: 'Facebook',
-        src: 'https://img.icons8.com/color/32/000000/facebook-new.png',
-        href: 'https://www.facebook.com/carobotorg/',
-      },
-      logo3: {
-        alt: 'X',
-        src: 'https://img.icons8.com/ios/32/000000/twitterx--v2.png',
-        href: 'https://twitter.com/carobotorg',
-      }, */
       copyright: `Copyright © ${new Date().getFullYear()} Carobot Org.`,
     },
     prism: {
