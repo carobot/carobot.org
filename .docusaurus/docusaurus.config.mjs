@@ -65,6 +65,12 @@ export default {
           "position": "left"
         },
         {
+          "type": "docSidebar",
+          "sidebarId": "projectsSidebar",
+          "label": "Projects",
+          "position": "left"
+        },
+        {
           "to": "/blog",
           "label": "Blog",
           "position": "left"

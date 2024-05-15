@@ -109,15 +109,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'adf'),
+    component: ComponentCreator('/docs', '2b0'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'fbf'),
+        component: ComponentCreator('/docs', '57f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd43'),
+            component: ComponentCreator('/docs', '65b'),
             routes: [
               {
                 path: '/docs/about-us',
@@ -141,6 +141,48 @@ export default [
                 component: ComponentCreator('/docs/Directors and Executives/Executives', '4bf'),
                 exact: true,
                 sidebar: "navigationSidebar"
+              },
+              {
+                path: '/docs/projects/Ant Robot',
+                component: ComponentCreator('/docs/projects/Ant Robot', 'caa'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Bat Robot',
+                component: ComponentCreator('/docs/projects/Bat Robot', '5f6'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Beetle Robot',
+                component: ComponentCreator('/docs/projects/Beetle Robot', '805'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Canada Goose Robot',
+                component: ComponentCreator('/docs/projects/Canada Goose Robot', '6e8'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Fly Robot',
+                component: ComponentCreator('/docs/projects/Fly Robot', '36c'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Guard Dog Robot',
+                component: ComponentCreator('/docs/projects/Guard Dog Robot', 'be1'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Moth Robot',
+                component: ComponentCreator('/docs/projects/Moth Robot', 'b5d'),
+                exact: true,
+                sidebar: "projectsSidebar"
               },
               {
                 path: '/docs/tutorial-extras/manage-docs-versions',

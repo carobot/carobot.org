@@ -88,6 +88,12 @@ const config = {
           label: 'Contact Us',
           position: 'left'
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'projectsSidebar',
+          label: 'Projects',
+          position: 'left'
+        },
 
         // Add more navigation links as needed here
         
@@ -136,6 +142,21 @@ const config = {
           ],
         },
       ],
+      /* logo: {
+        alt: 'Instagram',
+        src: 'https://img.icons8.com/windows/32/FFFFFF/instagram-new.png',
+        href: 'https://www.instagram.com/carobotorg/',
+      },
+       logo2: {
+        alt: 'Facebook',
+        src: 'https://img.icons8.com/color/32/000000/facebook-new.png',
+        href: 'https://www.facebook.com/carobotorg/',
+      },
+      logo3: {
+        alt: 'X',
+        src: 'https://img.icons8.com/ios/32/000000/twitterx--v2.png',
+        href: 'https://twitter.com/carobotorg',
+      }, */
       copyright: `Copyright © ${new Date().getFullYear()} Carobot Org.`,
     },
     prism: {

@@ -12,6 +12,15 @@ const sidebars = {
       'Tutorials': ['tutorials/CarduBlock-Edu-Tutorial'],
     }
   ],
+  projectsSidebar: [
+    {
+      'Projects': ['projects/Ant Robot','projects/Bat Robot',
+      'projects/Beetle Robot', 'projects/Canada Goose Robot',
+      'projects/Fly Robot','projects/Guard Dog Robot',
+      'projects/Moth Robot'
+      ],
+    }
+  ],
 };
 
 export default sidebars;
