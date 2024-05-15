@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Empowering Minds, Building Futures',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Img: require('@site/static/img/HomeImageA.png').default,
     description: (
       <>
         Inspiring curiosity, fostering innovation, and nurturing communities 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Breaking Down Barriers to STEM',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Img: require('@site/static/img/HomeImageB.png').default,
     description: (
       <>
         CAROBOT aims to democratize STEM education, making it accessible to all. We dismantle 
@@ -26,7 +26,7 @@ const FeatureList = [
   },
   {
     title: 'Hands-On Learning Made Simple',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Img: require('@site/static/img/HomeImageC.png').default,
     description: (
       <>
         Guiding You Through Your STEM Journey - At CAROBOT, we provide intuitive 
@@ -40,16 +40,19 @@ const FeatureList = [
   
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Img, title, description}) {
   return (
     <div className={clsx('col col--4')}>
+
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={Img} className={styles.featureImg} alt={title} /> 
       </div>
+
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>
+
     </div>
   );
 }
@@ -57,13 +60,17 @@ function Feature({Svg, title, description}) {
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
+
       <div className="container">
+
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
         </div>
+
       </div>
+
     </section>
   );
 }

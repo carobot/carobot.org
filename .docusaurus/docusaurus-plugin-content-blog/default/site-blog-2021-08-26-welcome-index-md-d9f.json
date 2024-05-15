@@ -58,9 +58,5 @@
       "Outreach"
     ]
   },
-  "unlisted": false,
-  "nextItem": {
-    "title": "MDX Blog Post",
-    "permalink": "/blog/mdx-blog-post"
-  }
+  "unlisted": false
 }

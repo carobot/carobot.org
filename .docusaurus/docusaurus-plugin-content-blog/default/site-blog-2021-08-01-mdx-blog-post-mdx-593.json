@@ -36,9 +36,5 @@
   "prevItem": {
     "title": "Welcome to the CaroBlog!",
     "permalink": "/blog/welcome"
-  },
-  "nextItem": {
-    "title": "Long Blog Post",
-    "permalink": "/blog/long-blog-post"
   }
 }

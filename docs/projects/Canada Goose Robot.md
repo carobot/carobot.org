@@ -1,2 +1,1 @@
-
 # Canada Goose Robot

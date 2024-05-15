@@ -318,7 +318,7 @@ export default {
         }
       ]
     },
-    "sidebarPath": "C:\\Users\\msalo\\OneDrive\\Documents\\GitHub\\carobot.org\\sidebars.js",
+    "sidebarPath": "/Users/kevin/Documents/CaRobotWebsite/carobot.org/sidebars.js",
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
