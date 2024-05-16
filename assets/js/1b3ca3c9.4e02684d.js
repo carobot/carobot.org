@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_owm_docs=self.webpackChunkmy_owm_docs||[]).push([[152],{5957:o=>{o.exports=JSON.parse('{"tags":[{"label":"Announcement","permalink":"/carobot.org/blog/tags/announcement","count":1},{"label":"STEM","permalink":"/carobot.org/blog/tags/stem","count":1},{"label":"Outreach","permalink":"/carobot.org/blog/tags/outreach","count":1}]}')}}]);
