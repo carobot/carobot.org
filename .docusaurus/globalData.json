@@ -30,38 +30,38 @@
               "sidebar": "navigationSidebar"
             },
             {
-              "id": "projects/Ant Robot",
-              "path": "/docs/projects/Ant Robot",
+              "id": "projects/ant-robot",
+              "path": "/docs/projects/ant-robot",
               "sidebar": "projectsSidebar"
             },
             {
-              "id": "projects/Bat Robot",
-              "path": "/docs/projects/Bat Robot",
+              "id": "projects/bat-robot",
+              "path": "/docs/projects/bat-robot",
               "sidebar": "projectsSidebar"
             },
             {
-              "id": "projects/Beetle Robot",
-              "path": "/docs/projects/Beetle Robot",
+              "id": "projects/beetle-robot",
+              "path": "/docs/projects/beetle-robot",
               "sidebar": "projectsSidebar"
             },
             {
-              "id": "projects/Canada Goose Robot",
-              "path": "/docs/projects/Canada Goose Robot",
+              "id": "projects/canada-goose-robot",
+              "path": "/docs/projects/canada-goose-robot",
               "sidebar": "projectsSidebar"
             },
             {
-              "id": "projects/Fly Robot",
-              "path": "/docs/projects/Fly Robot",
+              "id": "projects/fly-robot",
+              "path": "/docs/projects/fly-robot",
               "sidebar": "projectsSidebar"
             },
             {
-              "id": "projects/Guard Dog Robot",
-              "path": "/docs/projects/Guard Dog Robot",
+              "id": "projects/guard-dog-robot",
+              "path": "/docs/projects/guard-dog-robot",
               "sidebar": "projectsSidebar"
             },
             {
-              "id": "projects/Moth Robot",
-              "path": "/docs/projects/Moth Robot",
+              "id": "projects/moth-robot",
+              "path": "/docs/projects/moth-robot",
               "sidebar": "projectsSidebar"
             },
             {
@@ -94,8 +94,8 @@
             },
             "projectsSidebar": {
               "link": {
-                "path": "/docs/projects/Ant Robot",
-                "label": "projects/Ant Robot"
+                "path": "/docs/projects/ant-robot",
+                "label": "projects/ant-robot"
               }
             }
           }
