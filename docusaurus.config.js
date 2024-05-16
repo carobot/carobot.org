@@ -28,7 +28,7 @@ const config = {
   baseUrl: '/',
 
   // defines without trailing slash
-  trailingSlash: false,
+  // trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -95,11 +95,6 @@ const config = {
           label: 'Tutorials',
         },
         {
-          to: 'docs/contact/contact-us',
-          label: 'Contact Us',
-          position: 'left'
-        },
-        {
           type: 'docSidebar',
           sidebarId: 'projectsSidebar',
           label: 'Projects',
@@ -117,6 +112,12 @@ const config = {
           label: 'GitHub',
           position: 'right',
         }, */
+
+        {
+          to: 'docs/contact/contact-us',
+          label: 'Contact Us',
+          position: 'left'
+        },
       ],
     },
 

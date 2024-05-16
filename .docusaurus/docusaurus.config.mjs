@@ -8,8 +8,7 @@ export default {
   "tagline": "STEM Outreach and Education",
   "favicon": "img/carobot.png",
   "url": "https://carobot.org",
-  "baseUrl": "/carobot.org/",
-  "trailingSlash": false,
+  "baseUrl": "/",
   "organizationName": "Carobot",
   "projectName": "carobot.org",
   "onBrokenLinks": "throw",
@@ -61,11 +60,6 @@ export default {
           "label": "Tutorials"
         },
         {
-          "to": "docs/contact/contact-us",
-          "label": "Contact Us",
-          "position": "left"
-        },
-        {
           "type": "docSidebar",
           "sidebarId": "projectsSidebar",
           "label": "Projects",
@@ -74,6 +68,11 @@ export default {
         {
           "to": "/blog",
           "label": "Blog",
+          "position": "left"
+        },
+        {
+          "to": "docs/contact/contact-us",
+          "label": "Contact Us",
           "position": "left"
         }
       ],

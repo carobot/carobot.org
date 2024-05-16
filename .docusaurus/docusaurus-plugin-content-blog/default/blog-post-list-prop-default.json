@@ -3,7 +3,7 @@
   "items": [
     {
       "title": "Welcome to the CaroBlog!",
-      "permalink": "/carobot.org/blog/welcome",
+      "permalink": "/blog/welcome",
       "unlisted": false
     }
   ]
