@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/carobot.org/__docusaurus/debug',
+    component: ComponentCreator('/carobot.org/__docusaurus/debug', '4cb'),
+    exact: true
+  },
+  {
+    path: '/carobot.org/__docusaurus/debug/config',
+    component: ComponentCreator('/carobot.org/__docusaurus/debug/config', '2d7'),
+    exact: true
+  },
+  {
+    path: '/carobot.org/__docusaurus/debug/content',
+    component: ComponentCreator('/carobot.org/__docusaurus/debug/content', 'c90'),
+    exact: true
+  },
+  {
+    path: '/carobot.org/__docusaurus/debug/globalData',
+    component: ComponentCreator('/carobot.org/__docusaurus/debug/globalData', 'ea5'),
+    exact: true
+  },
+  {
+    path: '/carobot.org/__docusaurus/debug/metadata',
+    component: ComponentCreator('/carobot.org/__docusaurus/debug/metadata', '259'),
+    exact: true
+  },
+  {
+    path: '/carobot.org/__docusaurus/debug/registry',
+    component: ComponentCreator('/carobot.org/__docusaurus/debug/registry', '46e'),
+    exact: true
+  },
+  {
+    path: '/carobot.org/__docusaurus/debug/routes',
+    component: ComponentCreator('/carobot.org/__docusaurus/debug/routes', 'd48'),
+    exact: true
+  },
+  {
     path: '/carobot.org/blog',
     component: ComponentCreator('/carobot.org/blog', 'e4d'),
     exact: true
