@@ -94,13 +94,7 @@ export default {
           "title": "Contact Us",
           "items": [
             {
-              "html": "\n                <a href=\"https://www.instagram.com/carobotorg/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Instagram\">\n                  <img src=\"https://img.icons8.com/windows/32/FFFFFF/instagram-new.png\" alt=\"Instagram\" />\n                </a>\n              "
-            },
-            {
-              "html": "\n                <a href=\"https://www.facebook.com/carobotorg/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Facebook\">\n                  <img src=\"https://img.icons8.com/windows/32/FFFFFF/facebook-new.png\" alt=\"Instagram\" />\n                </a>\n              "
-            },
-            {
-              "html": "\n                <a href=\"https://twitter.com/carobotorg\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"X\">\n                  <img src=\"https://img.icons8.com/ios/32/FFFFFF/twitterx--v2.png\" alt=\"X\" />\n                </a>\n              "
+              "html": "\n                <a href=\"https://twitter.com/carobotorg\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Twitter\">\n                <img src=\"/img/twitter-logo.png\" alt=\"Twitter\" style=\"width: 32px; height: 32px;\" />\n                </a>\n\n                <a href=\"https://www.instagram.com/carobotorg/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Instagram\">\n                  <img src=\"/img/instagram-logo.png\" alt=\"Instagram\" style=\"width: 32px; height: 32px;\" />\n                </a>\n\n                <a href=\"https://www.facebook.com/carobotorg/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Facebook\">\n                <img src=\"/img/facebook-logo.png\" alt=\"Facebook\" style=\"width: 32px; height: 32px;\" />\n                </a>\n              "
             }
           ]
         }

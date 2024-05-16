@@ -57,3 +57,23 @@ html[data-theme='dark'] .navbar__github {
 .navbar__github:hover {
   background: var(--ifm-color-emphasis-200);
 }
+
+/* below class selector is used for the footer of the website */
+.footer__links {
+  display: flex;
+  justify-content: space-between; 
+  flex-wrap: wrap; 
+}
+
+.footer__links > div {
+  flex: 1; 
+  min-width: 200px; 
+}
+
+.footer__links > div:first-child {
+  text-align: left; 
+}
+
+.footer__links > div:last-child {
+  text-align: right; 
+}
