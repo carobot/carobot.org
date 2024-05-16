@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_owm_docs=self.webpackChunkmy_owm_docs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to the CaroBlog!","permalink":"/blog/welcome","unlisted":false}]}')}}]);
