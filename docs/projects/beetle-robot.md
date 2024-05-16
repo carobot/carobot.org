@@ -40,8 +40,8 @@
 3. 1x Arduino Uno + Cable
 4. 1x CAROBOT motor shield v3
 5. 2x 0.1 microF capacitor
-6. 2x resistor (not sure what value, can use 220)
-7. 1x 10k resistor
+6. 2x 220 Ohms resistor
+7. 1x 10k Ohms resistor
 8. 1x push button
 9. 1x mini breadboard
 10. Jumper wires
