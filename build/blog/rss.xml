@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Carobot Learning and Research Organization Blog</title>
-        <link>https://carobot.org/blog</link>
+        <link>https://carobot.org/carobot.org/blog</link>
         <description>Carobot Learning and Research Organization Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome to the CaroBlog!]]></title>
-            <link>https://carobot.org/blog/welcome</link>
-            <guid>https://carobot.org/blog/welcome</guid>
+            <link>https://carobot.org/carobot.org/blog/welcome</link>
+            <guid>https://carobot.org/carobot.org/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello and welcome to the Carobot Learning and Research Organization's blog! We are thrilled to have you here. Our blog is dedicated to sharing insightful articles, tutorials, and stories that ignite curiosity and foster a love for STEM (Science, Technology, Engineering, and Mathematics).]]></description>
             <content:encoded><![CDATA[<p>Hello and welcome to the Carobot Learning and Research Organization's blog! We are thrilled to have you here. Our blog is dedicated to sharing insightful articles, tutorials, and stories that ignite curiosity and foster a love for STEM (Science, Technology, Engineering, and Mathematics).</p>

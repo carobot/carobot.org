@@ -22,10 +22,13 @@ const config = {
   favicon: 'img/carobot.png',
 
   // Set the production url of your site here
-  url: 'https://carobot.org/',
+  url: 'https://carobot.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/carobot.org/',
+
+  // defines without trailing slash
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.

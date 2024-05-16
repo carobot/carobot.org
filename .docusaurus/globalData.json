@@ -1,80 +1,80 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/carobot.org/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/carobot.org/docs",
           "mainDocId": "about-us",
           "docs": [
             {
               "id": "about-us",
-              "path": "/docs/about-us",
+              "path": "/carobot.org/docs/about-us",
               "sidebar": "navigationSidebar"
             },
             {
               "id": "contact/contact-us",
-              "path": "/docs/contact/contact-us"
+              "path": "/carobot.org/docs/contact/contact-us"
             },
             {
               "id": "Directors and Executives/Directors",
-              "path": "/docs/Directors and Executives/Directors",
+              "path": "/carobot.org/docs/Directors and Executives/Directors",
               "sidebar": "navigationSidebar"
             },
             {
               "id": "Directors and Executives/Executives",
-              "path": "/docs/Directors and Executives/Executives",
+              "path": "/carobot.org/docs/Directors and Executives/Executives",
               "sidebar": "navigationSidebar"
             },
             {
               "id": "projects/ant-robot",
-              "path": "/docs/projects/ant-robot",
+              "path": "/carobot.org/docs/projects/ant-robot",
               "sidebar": "projectsSidebar"
             },
             {
               "id": "projects/bat-robot",
-              "path": "/docs/projects/bat-robot",
+              "path": "/carobot.org/docs/projects/bat-robot",
               "sidebar": "projectsSidebar"
             },
             {
               "id": "projects/beetle-robot",
-              "path": "/docs/projects/beetle-robot",
+              "path": "/carobot.org/docs/projects/beetle-robot",
               "sidebar": "projectsSidebar"
             },
             {
               "id": "projects/canada-goose-robot",
-              "path": "/docs/projects/canada-goose-robot",
+              "path": "/carobot.org/docs/projects/canada-goose-robot",
               "sidebar": "projectsSidebar"
             },
             {
               "id": "projects/fly-robot",
-              "path": "/docs/projects/fly-robot",
+              "path": "/carobot.org/docs/projects/fly-robot",
               "sidebar": "projectsSidebar"
             },
             {
               "id": "projects/guard-dog-robot",
-              "path": "/docs/projects/guard-dog-robot",
+              "path": "/carobot.org/docs/projects/guard-dog-robot",
               "sidebar": "projectsSidebar"
             },
             {
               "id": "projects/moth-robot",
-              "path": "/docs/projects/moth-robot",
+              "path": "/carobot.org/docs/projects/moth-robot",
               "sidebar": "projectsSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions"
+              "path": "/carobot.org/docs/tutorial-extras/manage-docs-versions"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site"
+              "path": "/carobot.org/docs/tutorial-extras/translate-your-site"
             },
             {
               "id": "tutorials/CarduBlock-Edu-Tutorial",
-              "path": "/docs/tutorials/CarduBlock-Edu-Tutorial",
+              "path": "/carobot.org/docs/tutorials/CarduBlock-Edu-Tutorial",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -82,19 +82,19 @@
           "sidebars": {
             "navigationSidebar": {
               "link": {
-                "path": "/docs/about-us",
+                "path": "/carobot.org/docs/about-us",
                 "label": "about-us"
               }
             },
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/tutorials/CarduBlock-Edu-Tutorial",
+                "path": "/carobot.org/docs/tutorials/CarduBlock-Edu-Tutorial",
                 "label": "tutorials/CarduBlock-Edu-Tutorial"
               }
             },
             "projectsSidebar": {
               "link": {
-                "path": "/docs/projects/ant-robot",
+                "path": "/carobot.org/docs/projects/ant-robot",
                 "label": "projects/ant-robot"
               }
             }

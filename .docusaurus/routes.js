@@ -3,170 +3,135 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/carobot.org/blog',
+    component: ComponentCreator('/carobot.org/blog', 'e4d'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/carobot.org/blog/archive',
+    component: ComponentCreator('/carobot.org/blog/archive', '329'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '466'),
+    path: '/carobot.org/blog/tags',
+    component: ComponentCreator('/carobot.org/blog/tags', '6c8'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/carobot.org/blog/tags/announcement',
+    component: ComponentCreator('/carobot.org/blog/tags/announcement', 'f3a'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/carobot.org/blog/tags/outreach',
+    component: ComponentCreator('/carobot.org/blog/tags/outreach', '3c3'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/carobot.org/blog/tags/stem',
+    component: ComponentCreator('/carobot.org/blog/tags/stem', '7ac'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/carobot.org/blog/welcome',
+    component: ComponentCreator('/carobot.org/blog/welcome', 'b69'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'f2f'),
+    path: '/carobot.org/markdown-page',
+    component: ComponentCreator('/carobot.org/markdown-page', '7f8'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '245'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '4c4'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/announcement',
-    component: ComponentCreator('/blog/tags/announcement', 'c32'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/outreach',
-    component: ComponentCreator('/blog/tags/outreach', 'ce5'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/stem',
-    component: ComponentCreator('/blog/tags/stem', 'ddd'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'b1d'),
+    path: '/carobot.org/docs',
+    component: ComponentCreator('/carobot.org/docs', '4ec'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', 'e6c'),
+        path: '/carobot.org/docs',
+        component: ComponentCreator('/carobot.org/docs', '9c8'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '7ef'),
+            path: '/carobot.org/docs',
+            component: ComponentCreator('/carobot.org/docs', '27d'),
             routes: [
               {
-                path: '/docs/about-us',
-                component: ComponentCreator('/docs/about-us', '64f'),
+                path: '/carobot.org/docs/about-us',
+                component: ComponentCreator('/carobot.org/docs/about-us', 'a97'),
                 exact: true,
                 sidebar: "navigationSidebar"
               },
               {
-                path: '/docs/contact/contact-us',
-                component: ComponentCreator('/docs/contact/contact-us', '66c'),
+                path: '/carobot.org/docs/contact/contact-us',
+                component: ComponentCreator('/carobot.org/docs/contact/contact-us', '5ce'),
                 exact: true
               },
               {
-                path: '/docs/Directors and Executives/Directors',
-                component: ComponentCreator('/docs/Directors and Executives/Directors', '3fd'),
+                path: '/carobot.org/docs/Directors and Executives/Directors',
+                component: ComponentCreator('/carobot.org/docs/Directors and Executives/Directors', '25e'),
                 exact: true,
                 sidebar: "navigationSidebar"
               },
               {
-                path: '/docs/Directors and Executives/Executives',
-                component: ComponentCreator('/docs/Directors and Executives/Executives', '4bf'),
+                path: '/carobot.org/docs/Directors and Executives/Executives',
+                component: ComponentCreator('/carobot.org/docs/Directors and Executives/Executives', 'e9f'),
                 exact: true,
                 sidebar: "navigationSidebar"
               },
               {
-                path: '/docs/projects/ant-robot',
-                component: ComponentCreator('/docs/projects/ant-robot', '062'),
+                path: '/carobot.org/docs/projects/ant-robot',
+                component: ComponentCreator('/carobot.org/docs/projects/ant-robot', 'd62'),
                 exact: true,
                 sidebar: "projectsSidebar"
               },
               {
-                path: '/docs/projects/bat-robot',
-                component: ComponentCreator('/docs/projects/bat-robot', '11e'),
+                path: '/carobot.org/docs/projects/bat-robot',
+                component: ComponentCreator('/carobot.org/docs/projects/bat-robot', '0bf'),
                 exact: true,
                 sidebar: "projectsSidebar"
               },
               {
-                path: '/docs/projects/beetle-robot',
-                component: ComponentCreator('/docs/projects/beetle-robot', '65d'),
+                path: '/carobot.org/docs/projects/beetle-robot',
+                component: ComponentCreator('/carobot.org/docs/projects/beetle-robot', 'ca7'),
                 exact: true,
                 sidebar: "projectsSidebar"
               },
               {
-                path: '/docs/projects/canada-goose-robot',
-                component: ComponentCreator('/docs/projects/canada-goose-robot', '373'),
+                path: '/carobot.org/docs/projects/canada-goose-robot',
+                component: ComponentCreator('/carobot.org/docs/projects/canada-goose-robot', '091'),
                 exact: true,
                 sidebar: "projectsSidebar"
               },
               {
-                path: '/docs/projects/fly-robot',
-                component: ComponentCreator('/docs/projects/fly-robot', 'cd7'),
+                path: '/carobot.org/docs/projects/fly-robot',
+                component: ComponentCreator('/carobot.org/docs/projects/fly-robot', 'e28'),
                 exact: true,
                 sidebar: "projectsSidebar"
               },
               {
-                path: '/docs/projects/guard-dog-robot',
-                component: ComponentCreator('/docs/projects/guard-dog-robot', 'bd3'),
+                path: '/carobot.org/docs/projects/guard-dog-robot',
+                component: ComponentCreator('/carobot.org/docs/projects/guard-dog-robot', '8e3'),
                 exact: true,
                 sidebar: "projectsSidebar"
               },
               {
-                path: '/docs/projects/moth-robot',
-                component: ComponentCreator('/docs/projects/moth-robot', 'a62'),
+                path: '/carobot.org/docs/projects/moth-robot',
+                component: ComponentCreator('/carobot.org/docs/projects/moth-robot', '25d'),
                 exact: true,
                 sidebar: "projectsSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'a34'),
+                path: '/carobot.org/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/carobot.org/docs/tutorial-extras/manage-docs-versions', '979'),
                 exact: true
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '739'),
+                path: '/carobot.org/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/carobot.org/docs/tutorial-extras/translate-your-site', '251'),
                 exact: true
               },
               {
-                path: '/docs/tutorials/CarduBlock-Edu-Tutorial',
-                component: ComponentCreator('/docs/tutorials/CarduBlock-Edu-Tutorial', 'e3b'),
+                path: '/carobot.org/docs/tutorials/CarduBlock-Edu-Tutorial',
+                component: ComponentCreator('/carobot.org/docs/tutorials/CarduBlock-Edu-Tutorial', 'cf4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -177,8 +142,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/carobot.org/',
+    component: ComponentCreator('/carobot.org/', 'eda'),
     exact: true
   },
   {

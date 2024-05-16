@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/welcome",
+  "permalink": "/carobot.org/blog/welcome",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome to the CaroBlog!",
@@ -8,15 +8,15 @@
   "tags": [
     {
       "label": "Announcement",
-      "permalink": "/blog/tags/announcement"
+      "permalink": "/carobot.org/blog/tags/announcement"
     },
     {
       "label": "STEM",
-      "permalink": "/blog/tags/stem"
+      "permalink": "/carobot.org/blog/tags/stem"
     },
     {
       "label": "Outreach",
-      "permalink": "/blog/tags/outreach"
+      "permalink": "/carobot.org/blog/tags/outreach"
     }
   ],
   "readingTime": 0.925,
