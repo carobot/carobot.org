@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://carobot.org/carobot.org/blog</id>
+    <id>https://carobot.org/blog</id>
     <title>Carobot Learning and Research Organization Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://carobot.org/carobot.org/blog"/>
+    <link rel="alternate" href="https://carobot.org/blog"/>
     <subtitle>Carobot Learning and Research Organization Blog</subtitle>
-    <icon>https://carobot.org/carobot.org/img/carobot.png</icon>
+    <icon>https://carobot.org/img/carobot.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome to the CaroBlog!]]></title>
-        <id>https://carobot.org/carobot.org/blog/welcome</id>
-        <link href="https://carobot.org/carobot.org/blog/welcome"/>
+        <id>https://carobot.org/blog/welcome</id>
+        <link href="https://carobot.org/blog/welcome"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello and welcome to the Carobot Learning and Research Organization's blog! We are thrilled to have you here. Our blog is dedicated to sharing insightful articles, tutorials, and stories that ignite curiosity and foster a love for STEM (Science, Technology, Engineering, and Mathematics).]]></summary>
         <content type="html"><![CDATA[<p>Hello and welcome to the Carobot Learning and Research Organization's blog! We are thrilled to have you here. Our blog is dedicated to sharing insightful articles, tutorials, and stories that ignite curiosity and foster a love for STEM (Science, Technology, Engineering, and Mathematics).</p>
