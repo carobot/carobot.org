@@ -8,6 +8,13 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import React from 'react';
 
 
+// style sheet
+theme: 
+{
+  customCss: require.resolve("./src/css/custom.css");
+}
+
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Carobot Learning and Research Organization',
@@ -62,7 +69,8 @@ const config = {
     ],
   ],
 
-  themeConfig: {
+  themeConfig: 
+  {
     // Replace with your project's social card
     image: '...img/carobot.png',
     navbar: {
@@ -108,47 +116,56 @@ const config = {
         }, */
       ],
     },
-    footer: {
+
+
+    footer: 
+    {
       style: 'dark',
-      links: [
+
+      links: 
+      [
+        // the following section is "Abous Us" footer column
         {
           title: 'About Us',
-          items: [
+          items: 
+          [
             {
               label: 'Our Mission',
               to: '/docs/about-us',
             },
           ],
         },
+
+        // the following section is "Contact Us" footer column
         {
           title: 'Contact Us',
-          items: [
+
+          items: 
+          [
             {
-              html: `
+              html: 
+              `
+                <a href="https://twitter.com/carobotorg" target="_blank" rel="noreferrer noopener" aria-label="Twitter">
+                <img src="/img/twitter-logo.png" alt="Twitter" style="width: 32px; height: 32px;" />
+                </a>
+
                 <a href="https://www.instagram.com/carobotorg/" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
-                  <img src="https://img.icons8.com/windows/32/FFFFFF/instagram-new.png" alt="Instagram" />
+                  <img src="/img/instagram-logo.png" alt="Instagram" style="width: 32px; height: 32px;" />
                 </a>
-              `,
-            },
-            {
-              html: `
+
                 <a href="https://www.facebook.com/carobotorg/" target="_blank" rel="noreferrer noopener" aria-label="Facebook">
-                  <img src="https://img.icons8.com/windows/32/FFFFFF/facebook-new.png" alt="Instagram" />
-                </a>
-              `,
-            },
-            {
-              html: `
-                <a href="https://twitter.com/carobotorg" target="_blank" rel="noreferrer noopener" aria-label="X">
-                  <img src="https://img.icons8.com/ios/32/FFFFFF/twitterx--v2.png" alt="X" />
+                <img src="/img/facebook-logo.png" alt="Facebook" style="width: 32px; height: 32px;" />
                 </a>
               `,
             },
           ],
         },
       ],
+
       copyright: `Copyright © ${new Date().getFullYear()} Carobot Org.`,
     },
+
+
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
