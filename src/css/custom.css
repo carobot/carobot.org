@@ -77,3 +77,9 @@ html[data-theme='dark'] .navbar__github {
 .footer__links > div:last-child {
   text-align: right; 
 }
+
+/* the following styles are used for carobot.org/projects/ */
+.image-margin 
+{
+  margin: 20px;
+}

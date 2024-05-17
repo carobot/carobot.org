@@ -29,6 +29,7 @@
 - **Jumper Wires**: For connecting components on the breadboard.
 - **AA Batteries (x4)**: Power source for the robot.
 
+
 ### Software
 - **Arduino IDE**: Integrated Development Environment for writing and uploading code to the Arduino board.
 - **Basic C/C++ Programming Knowledge**: To understand and write the Arduino code.
@@ -58,6 +59,9 @@ The Beetle Robot is designed to mimic the behavior of a beetle using its antenna
 
 When an antenna (flex sensor) bends upon touching an obstacle, it changes its resistance. The Arduino reads this change and makes the robot back away and change direction, simulating the beetle’s behavior.
 
+<br></br>
+![Carobot Swiss Cheese](img/beetle-photo.jpeg)
+
 
 ## Implementation
 1. **Assemble the Chassis**: Attach the DC motors and wheels to the chassis. Insert the batteries into the holder.
@@ -67,6 +71,11 @@ When an antenna (flex sensor) bends upon touching an obstacle, it changes its re
 5. **Write the Code**: Use the Arduino IDE to write a program that reads the flex sensor data and controls the motors based on the sensor input.
 6. **Test and Debug**: Upload the code to the Arduino, test the robot’s functionality, and make necessary adjustments.
 
+<br></br>
+![Carobot Swiss Cheese](img/beetle-wiring.jpeg)
+
 
 ## Conclusion
 Through this project, you will have gained practical experience in building and programming a robot, understanding the use of flex sensors for navigation, and learning basic principles of electronics and robotics. This hands-on project not only enhances your technical skills, but also emphasizes the "hows" and "whys" by demonstrating real-world applications of sensors and robotics.
+
+
