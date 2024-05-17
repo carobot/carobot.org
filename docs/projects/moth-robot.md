@@ -4,6 +4,8 @@
 
 <p>Let's get familiar with how the MothBot works!</p>
 
+![Carobot Swiss Cheese](img/moth-drawing.png)
+
 <p>The primary objective of this project is to explore the use of photoresistors, a.k.a. "light sensors," in robotics. By building a moth-inspired robot, we will learn how these sensors mimic the light-seeking behavior of moths to help the robot navigate its environment and follow light sources.</p>
 
 <p>Through this project, we will:</p>
@@ -31,6 +33,11 @@
 - **Arduino IDE**: Integrated Development Environment for writing and uploading code to the Arduino board.
 - **Basic C/C++ Programming Knowledge**: To understand and write the Arduino code.
 
+
+<br></br>
+![Carobot Swiss Cheese](img/light-sensor.png)
+
+
 ## Bill of Material:
 1. Simple Robot Chassis Kit (2 DC motors, 2 Wheels, battery holder)
 2. Photoresistors (Light Sensors)
@@ -43,6 +50,11 @@
 9. mini breadboard
 10. Jumper wires
 11. AA batteries
+
+
+<br></br>
+![Carobot Swiss Cheese](img/general_kit.jpeg)
+
 
 ## Design
 The Moth Bot is designed to mimic the behavior of a moth using its light-seeking eyes for navigation. The design includes:
@@ -61,6 +73,11 @@ When the photoresistors detect light, they measure the intensity of the light. T
 4. **Connect the Push Button**: Wire the push button to the Arduino through the breadboard.
 5. **Write the Code**: Use the Arduino IDE to write a program that reads the photoresistor data and controls the motors based on the sensor input.
 6. **Test and Debug**: Upload the code to the Arduino, test the robot’s functionality, and make necessary adjustments.
+
+
+<br></br>
+![Carobot Swiss Cheese](img/moth-wiring.jpeg)
+
 
 ## Conclusion
 Through this project, you will have gained practical experience in building and programming a robot, understanding the use of photoresistors for light detection, and learning basic principles of electronics and robotics. This hands-on project not only enhances your technical skills but also emphasizes the "hows" and "whys" by demonstrating real-world applications of sensors and robotics.

@@ -5,6 +5,8 @@
 
 <p>Let's get familiar with how the BeetleBot work!</p>
 
+![Carobot Swiss Cheese](img/beetle-drawing.JPG)
+
 <p>The primary objective of this project is to explore the use of flexible sensors, a.k.a. "flex sensors", in robotics. By building a beetle-inspired robot, we will learn how these sensors mimic the antennae of beetles to help the robot navigate its environment.</p>
 
 <p>Through this project, we will:</p> 
@@ -35,6 +37,10 @@
 - **Basic C/C++ Programming Knowledge**: To understand and write the Arduino code.
 
 
+<br></br>
+![Carobot Swiss Cheese](img/flex-sensor.png)
+
+
 ## Bill of Material:
 1. 1x Simple Robot Chassis Kit (2 DC motors, 2 Wheels, battery holder)
 2. 2x flex sensor - 2.2”
@@ -47,6 +53,9 @@
 9. 1x mini breadboard
 10. Jumper wires
 11. 4x AA batteries
+
+<br></br>
+![Carobot Swiss Cheese](img/general_kit.jpeg)
 
 
 ## Design

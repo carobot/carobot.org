@@ -4,6 +4,8 @@
 
 <p>Let's get familiar with how the FlyBot works!</p>
 
+![Carobot Swiss Cheese](img/fly-drawing.png)
+
 <p>The primary objective of this project is to explore the use of Time-of-Flight sensors, a.k.a. "ToF sensors," in robotics. By building a fly-inspired robot, we will learn how these sensors mimic the compound eyes of flies to help the robot navigate its environment at high speeds.</p>
 
 <p>Through this project, we will:</p>
@@ -31,6 +33,11 @@
 - **Arduino IDE**: Integrated Development Environment for writing and uploading code to the Arduino board.
 - **Basic C/C++ Programming Knowledge**: To understand and write the Arduino code.
 
+
+<br></br>
+![Carobot Swiss Cheese](img/TOF-sensor.png)
+
+
 ## Bill of Material:
 1. Simple Robot Chassis Kit (2 DC motors, 2 Wheels, battery holder)
 2. Time-of-Flight Sensors
@@ -44,6 +51,11 @@
 10. Jumper wires
 11. AA batteries
 
+
+<br></br>
+![Carobot Swiss Cheese](img/general_kit.jpeg)
+
+
 ## Design
 The FlyBot is designed to mimic the behavior of a fly using its compound eyes for navigation. The design includes:
 - **Chassis and Motors**: The base structure of the robot with wheels driven by DC motors.
@@ -54,6 +66,7 @@ The FlyBot is designed to mimic the behavior of a fly using its compound eyes fo
 
 When the Time-of-Flight sensors detect an object, they measure the time it takes for the laser light to bounce back, calculating the distance. The Arduino reads this data and adjusts the robot's movement, simulating the fly’s rapid navigation.
 
+
 ## Implementation
 1. **Assemble the Chassis**: Attach the DC motors and wheels to the chassis. Insert the batteries into the holder.
 2. **Set Up the Time-of-Flight Sensors**: Connect the ToF sensors to the mini breadboard and wire them to the Arduino. Use the capacitors and resistors as needed.
@@ -61,6 +74,11 @@ When the Time-of-Flight sensors detect an object, they measure the time it takes
 4. **Connect the Push Button**: Wire the push button to the Arduino through the breadboard.
 5. **Write the Code**: Use the Arduino IDE to write a program that reads the ToF sensor data and controls the motors based on the sensor input.
 6. **Test and Debug**: Upload the code to the Arduino, test the robot’s functionality, and make necessary adjustments.
+
+
+<br></br>
+![Carobot Swiss Cheese](img/fly-wiring.png)
+
 
 ## Conclusion
 Through this project, you will have gained practical experience in building and programming a robot, understanding the use of Time-of-Flight sensors for navigation, and learning basic principles of electronics and robotics. This hands-on project not only enhances your technical skills but also emphasizes the "hows" and "whys" by demonstrating real-world applications of sensors and robotics.

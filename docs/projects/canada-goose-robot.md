@@ -4,6 +4,8 @@
 
 <p>Let's get familiar with how the GooseBot works!</p>
 
+![Carobot Swiss Cheese](img/goose-drawing.png)
+
 <p>The primary objective of this project is to explore the use of magnetometers, a.k.a. "magnetic sensors," in robotics. By building a goose-inspired robot, we will learn how these sensors mimic the navigation technique of Canada Geese to help the robot navigate its environment.</p>
 
 <p>Through this project, we will:</p>
@@ -33,6 +35,10 @@
 - **Basic C/C++ Programming Knowledge**: To understand and write the Arduino code.
 
 
+<br></br>
+![Carobot Swiss Cheese](img/magnetic-sensor.png)
+
+
 ## Bill of Material:
 1. Simple Robot Chassis Kit (2 DC motors, 2 Wheels, battery holder)
 2. Magnetometer
@@ -45,6 +51,10 @@
 9. mini breadboard
 10. Jumper wires
 11. AA batteries
+
+
+<br></br>
+![Carobot Swiss Cheese](img/general_kit.jpeg)
 
 
 ## Design
@@ -64,6 +74,11 @@ When the magnetometer detects a magnetic field, it changes its readings. The Ard
 4. **Connect the Push Button**: Wire the push button to the Arduino through the breadboard.
 5. **Write the Code**: Use the Arduino IDE to write a program that reads the magnetometer data and controls the motors based on the sensor input.
 6. **Test and Debug**: Upload the code to the Arduino, test the robot’s functionality, and make necessary adjustments.
+
+
+<br></br>
+![Carobot Swiss Cheese](img/goose-wiring.jpg)
+
 
 ## Conclusion
 Through this project, you will have gained practical experience in building and programming a robot, understanding the use of magnetometers for navigation, and learning basic principles of electronics and robotics. This hands-on project not only enhances your technical skills but also emphasizes the "hows" and "whys" by demonstrating real-world applications of sensors and robotics.

@@ -4,6 +4,8 @@
 
 <p>Let's get familiar with how the BatBot work!</p>
 
+![Carobot Swiss Cheese](img/bat-drawing.png)
+
 <p>The primary objective of this project is to explore the use of ultrasonic sensors in robotics. By building a bat-inspired robot, we will learn how these sensors mimic the navigation technique of bats to help the robot go around its environment.</p>
 
 <p>Through this project, we will:</p> 
@@ -33,6 +35,10 @@
 - **Basic C/C++ Programming Knowledge**: To understand and write the Arduino code.
 
 
+<br></br>
+![Carobot Swiss Cheese](img/ultrasonic-sensor.jpg)
+
+
 ## Bill of Material:
 1. Simple Robot Chassis Kit (2 DC motors, 2 Wheels, battery holder)
 2. Ultrasonic sensor
@@ -45,6 +51,10 @@
 9. mini breadboard
 10. Jumper wires
 11. AA batteries
+
+
+<br></br>
+![Carobot Swiss Cheese](img/general_kit.jpeg)
 
 
 ## Design
@@ -65,6 +75,10 @@ When the Ultrasonic sensors detect the obstacles, they generate specific reading
 4. **Connect the Push Button**: Wire the push button to the Arduino through the breadboard.
 5. **Write the Code**: Use the Arduino IDE to write a program that reads the ultrasonic sensor data and controls the motors based on the sensor input.
 6. **Test and Debug**: Upload the code to the Arduino, test the robot’s functionality, and make necessary adjustments.
+
+
+<br></br>
+![Carobot Swiss Cheese](img/bat-wiring.jpg)
 
 
 ## Conclusion

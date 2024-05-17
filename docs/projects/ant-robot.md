@@ -4,6 +4,8 @@
 
 <p>Let's get familiar with how the AntBot work!</p>
 
+![Carobot Swiss Cheese](img/ant-drawing.JPG)
+
 <p>The primary objective of this project is to explore the use of infrared sensors, a.k.a. "IR sensors", in robotics. By building an ant-inspired robot, we will learn how these sensors mimic the navigation technique of ants to help the robot go around its environment.</p>
 
 <p>Through this project, we will:</p> 
@@ -33,6 +35,10 @@
 - **Basic C/C++ Programming Knowledge**: To understand and write the Arduino code.
 
 
+<br></br>
+![Carobot Swiss Cheese](img/ir-sensor.png)
+
+
 ## Bill of Material:
 1. Simple Robot Chassis Kit (2 DC motors, 2 Wheels, battery holder)
 2. IR sensor
@@ -45,6 +51,10 @@
 9. mini breadboard
 10. Jumper wires
 11. AA batteries
+
+
+<br></br>
+![Carobot Swiss Cheese](img/general_kit.jpeg)
 
 
 ## Design
@@ -65,6 +75,10 @@ When the IR sensors detect the light path, they change their readings. The Ardui
 4. **Connect the Push Button**: Wire the push button to the Arduino through the breadboard.
 5. **Write the Code**: Use the Arduino IDE to write a program that reads the infrared sensor data and controls the motors based on the sensor input.
 6. **Test and Debug**: Upload the code to the Arduino, test the robot’s functionality, and make necessary adjustments.
+
+
+<br></br>
+![Carobot Swiss Cheese](img/ant-wiring.png)
 
 
 ## Conclusion
