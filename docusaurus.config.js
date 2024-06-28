@@ -173,6 +173,7 @@ const config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+      additionalLanguages: ['c', 'cpp', 'python', 'java'], // Add languages you need
     },
     // Include the sidebar configuration file
     sidebarPath: require.resolve('./sidebars.js'),
