@@ -293,7 +293,12 @@ export default {
           }
         ]
       },
-      "additionalLanguages": [],
+      "additionalLanguages": [
+        "c",
+        "cpp",
+        "python",
+        "java"
+      ],
       "magicComments": [
         {
           "className": "theme-code-block-highlighted-line",

@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b92'),
+    component: ComponentCreator('/docs', 'da9'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'fc0'),
+        component: ComponentCreator('/docs', 'dbc'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'a1d'),
+            component: ComponentCreator('/docs', 'e14'),
             routes: [
               {
                 path: '/docs/about-us',
@@ -231,163 +231,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorials/chassis-robot/',
-                component: ComponentCreator('/docs/tutorials/chassis-robot/', '0b1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/chassis-robot/building',
-                component: ComponentCreator('/docs/tutorials/chassis-robot/building', '173'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/chassis-robot/programming',
-                component: ComponentCreator('/docs/tutorials/chassis-robot/programming', '8fb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/chassis-robot/wiring',
-                component: ComponentCreator('/docs/tutorials/chassis-robot/wiring', 'd6e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/discovery-kit/',
-                component: ComponentCreator('/docs/tutorials/discovery-kit/', 'd86'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/discovery-kit/arduino-hardware',
-                component: ComponentCreator('/docs/tutorials/discovery-kit/arduino-hardware', '536'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/discovery-kit/introduction',
-                component: ComponentCreator('/docs/tutorials/discovery-kit/introduction', '2fc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c01-beginning',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c01-beginning', 'b8f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c02-types',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c02-types', 'f5f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c03-literals',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c03-literals', '297'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c04-operator',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c04-operator', '1b7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c05-constructs',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c05-constructs', 'f9f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c06-arrays',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c06-arrays', 'd12'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c07-functions',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c07-functions', '8c9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c08-data-conversions',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c08-data-conversions', '0c5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/tutorials/Introduction',
                 component: ComponentCreator('/docs/tutorials/Introduction', 'eae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorials/kicad/',
-                component: ComponentCreator('/docs/tutorials/kicad/', '5e1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/kicad/kicad-basic',
-                component: ComponentCreator('/docs/tutorials/kicad/kicad-basic', '8f6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/tutorials/robot-with-real-time-temperature-display',
                 component: ComponentCreator('/docs/tutorials/robot-with-real-time-temperature-display', '3a3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/', 'b57'),
-                exact: true
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-01-windows-installation-guide',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-01-windows-installation-guide', '15d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-02-introduction-to-lcd',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-02-introduction-to-lcd', 'c29'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-03-lcd-serial',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-03-lcd-serial', '301'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-04-lcd-local-no-arduino',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-04-lcd-local-no-arduino', 'b50'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-05-arduino-2-wires',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-05-arduino-2-wires', '065'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-06-arduino-2-wires',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-06-arduino-2-wires', '13f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorials',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorials', '5e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
