@@ -50,6 +50,56 @@
               "sidebar": "projectsSidebar"
             },
             {
+              "id": "projects/ESP32-Starter-Kit/Components-and-Installation",
+              "path": "/docs/projects/ESP32-Starter-Kit/Components-and-Installation",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/ESP32-Starter-Kit/Introduction",
+              "path": "/docs/projects/ESP32-Starter-Kit/Introduction",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/ESP32-Starter-Kit/Project-1",
+              "path": "/docs/projects/ESP32-Starter-Kit/Project-1",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/ESP32-Starter-Kit/Project-2",
+              "path": "/docs/projects/ESP32-Starter-Kit/Project-2",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/ESP32-Starter-Kit/Project-3",
+              "path": "/docs/projects/ESP32-Starter-Kit/Project-3",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/ESP32-Starter-Kit/Project-4",
+              "path": "/docs/projects/ESP32-Starter-Kit/Project-4",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/ESP32-Starter-Kit/Project-5.1",
+              "path": "/docs/projects/ESP32-Starter-Kit/Project-5.1",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/ESP32-Starter-Kit/Project-5.2",
+              "path": "/docs/projects/ESP32-Starter-Kit/Project-5.2",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/ESP32-Starter-Kit/Project-6.1",
+              "path": "/docs/projects/ESP32-Starter-Kit/Project-6.1",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/ESP32-Starter-Kit/Project-6.2",
+              "path": "/docs/projects/ESP32-Starter-Kit/Project-6.2",
+              "sidebar": "projectsSidebar"
+            },
+            {
               "id": "projects/fly-robot",
               "path": "/docs/projects/fly-robot",
               "sidebar": "projectsSidebar"
