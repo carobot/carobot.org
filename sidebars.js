@@ -32,6 +32,18 @@ const sidebars = {
         'projects/guard-dog-robot',
         'projects/moth-robot'
       ],
+      'ESP32 Starter Kit': [
+        'projects/ESP32-Starter-Kit/Introduction',
+        'projects/ESP32-Starter-Kit/Components-and-Installation',
+        'projects/ESP32-Starter-Kit/Project-1',
+        'projects/ESP32-Starter-Kit/Project-2',
+        'projects/ESP32-Starter-Kit/Project-3',
+        'projects/ESP32-Starter-Kit/Project-4',
+        'projects/ESP32-Starter-Kit/Project-5.1',
+        'projects/ESP32-Starter-Kit/Project-5.2',
+        'projects/ESP32-Starter-Kit/Project-6.1',
+        'projects/ESP32-Starter-Kit/Project-6.2',
+      ],
     }
   ],
   
