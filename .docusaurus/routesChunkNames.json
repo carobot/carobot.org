@@ -127,17 +127,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-da9": {
+  "/docs-3f4": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-dbc": {
+  "/docs-a2a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-7-c-1-f86"
   },
-  "/docs-e14": {
+  "/docs-958": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/about-us-64f": {
@@ -211,6 +211,22 @@
   "/docs/projects/ESP32-Starter-Kit/Project-6.2-540": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-esp-32-starter-kit-project-6-238-c-c63"
+  },
+  "/docs/projects/Ethanol-Detector/Getting-Started-3dc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-projects-ethanol-detector-getting-started-69-e-aed"
+  },
+  "/docs/projects/Ethanol-Detector/Introduction-721": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-projects-ethanol-detector-introduction-292-5ea"
+  },
+  "/docs/projects/Ethanol-Detector/Testing-5fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-projects-ethanol-detector-testing-037-0a5"
+  },
+  "/docs/projects/Ethanol-Detector/Working-Principle-095": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-projects-ethanol-detector-working-principle-121-d52"
   },
   "/docs/projects/fly-robot-cd7": {
     "__comp": "__comp---theme-doc-item-178-a40",

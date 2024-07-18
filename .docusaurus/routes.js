@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'da9'),
+    component: ComponentCreator('/docs', '3f4'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'dbc'),
+        component: ComponentCreator('/docs', 'a2a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e14'),
+            component: ComponentCreator('/docs', '958'),
             routes: [
               {
                 path: '/docs/about-us',
@@ -193,6 +193,30 @@ export default [
               {
                 path: '/docs/projects/ESP32-Starter-Kit/Project-6.2',
                 component: ComponentCreator('/docs/projects/ESP32-Starter-Kit/Project-6.2', '540'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Ethanol-Detector/Getting-Started',
+                component: ComponentCreator('/docs/projects/Ethanol-Detector/Getting-Started', '3dc'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Ethanol-Detector/Introduction',
+                component: ComponentCreator('/docs/projects/Ethanol-Detector/Introduction', '721'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Ethanol-Detector/Testing',
+                component: ComponentCreator('/docs/projects/Ethanol-Detector/Testing', '5fa'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Ethanol-Detector/Working-Principle',
+                component: ComponentCreator('/docs/projects/Ethanol-Detector/Working-Principle', '095'),
                 exact: true,
                 sidebar: "projectsSidebar"
               },
