@@ -44,6 +44,12 @@ const sidebars = {
         'projects/ESP32-Starter-Kit/Project-6.1',
         'projects/ESP32-Starter-Kit/Project-6.2',
       ],
+      'Ethanol Detector Using An MQ3 Sensor': [
+        'projects/Ethanol-Detector/Introduction',
+        'projects/Ethanol-Detector/Getting-Started',
+        'projects/Ethanol-Detector/Working-Principle',
+        'projects/Ethanol-Detector/Testing',
+      ]
     }
   ],
   
