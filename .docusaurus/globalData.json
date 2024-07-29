@@ -130,6 +130,14 @@
               "sidebar": "projectsSidebar"
             },
             {
+              "id": "projects/Microbit-Robot/Getting-Started",
+              "path": "/docs/projects/Microbit-Robot/Getting-Started"
+            },
+            {
+              "id": "projects/Microbit-Robot/Introduction",
+              "path": "/docs/projects/Microbit-Robot/Introduction"
+            },
+            {
               "id": "projects/moth-robot",
               "path": "/docs/projects/moth-robot",
               "sidebar": "projectsSidebar"
