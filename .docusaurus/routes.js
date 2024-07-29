@@ -14,7 +14,7 @@ export default [
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '466'),
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
     exact: true
   },
   {
@@ -39,27 +39,27 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'f2f'),
+    component: ComponentCreator('/blog', '725'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '245'),
+    component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '4c4'),
+    component: ComponentCreator('/blog/tags', '287'),
     exact: true
   },
   {
     path: '/blog/tags/announcement',
-    component: ComponentCreator('/blog/tags/announcement', 'c32'),
+    component: ComponentCreator('/blog/tags/announcement', '6f2'),
     exact: true
   },
   {
     path: '/blog/tags/outreach',
-    component: ComponentCreator('/blog/tags/outreach', 'ce5'),
+    component: ComponentCreator('/blog/tags/outreach', '4d9'),
     exact: true
   },
   {
@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3f4'),
+    component: ComponentCreator('/docs', '3f7'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'a2a'),
+        component: ComponentCreator('/docs', '63f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '958'),
+            component: ComponentCreator('/docs', '5a9'),
             routes: [
               {
                 path: '/docs/about-us',
@@ -231,6 +231,16 @@ export default [
                 component: ComponentCreator('/docs/projects/guard-dog-robot', 'bd3'),
                 exact: true,
                 sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Microbit-Robot/Getting-Started',
+                component: ComponentCreator('/docs/projects/Microbit-Robot/Getting-Started', 'f8c'),
+                exact: true
+              },
+              {
+                path: '/docs/projects/Microbit-Robot/Introduction',
+                component: ComponentCreator('/docs/projects/Microbit-Robot/Introduction', 'a4d'),
+                exact: true
               },
               {
                 path: '/docs/projects/moth-robot',
