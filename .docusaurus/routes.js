@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3f7'),
+    component: ComponentCreator('/docs', '67a'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '63f'),
+        component: ComponentCreator('/docs', '4cf'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5a9'),
+            component: ComponentCreator('/docs', '7a6'),
             routes: [
               {
                 path: '/docs/about-us',
@@ -234,13 +234,21 @@ export default [
               },
               {
                 path: '/docs/projects/Microbit-Robot/Getting-Started',
-                component: ComponentCreator('/docs/projects/Microbit-Robot/Getting-Started', 'f8c'),
-                exact: true
+                component: ComponentCreator('/docs/projects/Microbit-Robot/Getting-Started', '505'),
+                exact: true,
+                sidebar: "projectsSidebar"
               },
               {
                 path: '/docs/projects/Microbit-Robot/Introduction',
-                component: ComponentCreator('/docs/projects/Microbit-Robot/Introduction', 'a4d'),
-                exact: true
+                component: ComponentCreator('/docs/projects/Microbit-Robot/Introduction', 'f20'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Microbit-Robot/Working-Principle',
+                component: ComponentCreator('/docs/projects/Microbit-Robot/Working-Principle', '382'),
+                exact: true,
+                sidebar: "projectsSidebar"
               },
               {
                 path: '/docs/projects/moth-robot',

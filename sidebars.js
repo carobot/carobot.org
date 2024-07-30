@@ -50,10 +50,11 @@ const sidebars = {
         'projects/Ethanol-Detector/Working-Principle',
         'projects/Ethanol-Detector/Testing',
       ],
-/*       'Microbit Robot':[
+      'Microbit Robot':[
         'projects/Microbit-Robot/Introduction',
         'projects/Microbit-Robot/Getting-Started',
-      ] */
+        'projects/Microbit-Robot/Working-Principle',
+      ]
     }
   ],
   
