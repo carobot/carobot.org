@@ -131,11 +131,18 @@
             },
             {
               "id": "projects/Microbit-Robot/Getting-Started",
-              "path": "/docs/projects/Microbit-Robot/Getting-Started"
+              "path": "/docs/projects/Microbit-Robot/Getting-Started",
+              "sidebar": "projectsSidebar"
             },
             {
               "id": "projects/Microbit-Robot/Introduction",
-              "path": "/docs/projects/Microbit-Robot/Introduction"
+              "path": "/docs/projects/Microbit-Robot/Introduction",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/Microbit-Robot/Working-Principle",
+              "path": "/docs/projects/Microbit-Robot/Working-Principle",
+              "sidebar": "projectsSidebar"
             },
             {
               "id": "projects/moth-robot",
