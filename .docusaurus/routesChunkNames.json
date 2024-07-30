@@ -127,17 +127,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-3f4": {
+  "/docs-98e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-a2a": {
+  "/docs-425": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-7-c-1-f86"
   },
-  "/docs-958": {
+  "/docs-7a6": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/about-us-64f": {
@@ -235,6 +235,18 @@
   "/docs/projects/guard-dog-robot-bd3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-guard-dog-robotaec-0a7"
+  },
+  "/docs/projects/Microbit-Robot/Getting-Started-505": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-projects-microbit-robot-getting-startedd-28-d69"
+  },
+  "/docs/projects/Microbit-Robot/Introduction-f20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-projects-microbit-robot-introduction-51-c-5e7"
+  },
+  "/docs/projects/Microbit-Robot/Working-Principle-382": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-projects-microbit-robot-working-principled-8-e-0e0"
   },
   "/docs/projects/moth-robot-a62": {
     "__comp": "__comp---theme-doc-item-178-a40",

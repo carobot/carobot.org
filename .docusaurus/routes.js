@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3f4'),
+    component: ComponentCreator('/docs', '98e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'a2a'),
+        component: ComponentCreator('/docs', '425'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '958'),
+            component: ComponentCreator('/docs', '7a6'),
             routes: [
               {
                 path: '/docs/about-us',
@@ -229,6 +229,24 @@ export default [
               {
                 path: '/docs/projects/guard-dog-robot',
                 component: ComponentCreator('/docs/projects/guard-dog-robot', 'bd3'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Microbit-Robot/Getting-Started',
+                component: ComponentCreator('/docs/projects/Microbit-Robot/Getting-Started', '505'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Microbit-Robot/Introduction',
+                component: ComponentCreator('/docs/projects/Microbit-Robot/Introduction', 'f20'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Microbit-Robot/Working-Principle',
+                component: ComponentCreator('/docs/projects/Microbit-Robot/Working-Principle', '382'),
                 exact: true,
                 sidebar: "projectsSidebar"
               },
