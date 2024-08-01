@@ -54,6 +54,11 @@ const sidebars = {
         'projects/Microbit-Robot/Introduction',
         'projects/Microbit-Robot/Getting-Started',
         'projects/Microbit-Robot/Working-Principle',
+      ],
+      'Microbit Robot': [
+        'projects/Microbit-Robot/Introduction',
+        'projects/Microbit-Robot/Getting-Started',
+        'projects/Microbit-Robot/Working-Principle',
       ]
     }
   ],

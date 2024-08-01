@@ -7,18 +7,18 @@ sidebar_position: 2
 <!-- Fix the links below -->
 | Component Name                         | Image        |
 |----------------------------------------|--------------|
-| [BBC micro:bit v2 Go Bundle](https://www.canadarobotix.com/products/2647?variant=32508815310897)                       | <img src="/img/docs/microbit/microbit.webp" width="200" /> | 
-| Micro:bit compatible breakout board     | <img src="/img/docs/microbit/breakout-board.jpg" width="200" /> |
-| [4x AA Batteries](https://www.canadarobotix.com/products/1916)                        | <img src="/img/docs/microbit/batteries.webp" width="200" /> |
-| [Motor Shield V3](https://www.canadarobotix.com/products/2337)                        | <img src="/img/docs/microbit/motor-shield.webp" width="200" /> |
-| [Robot Chassis Kit](https://www.canadarobotix.com/products/2794)                           | <img src="/img/docs/microbit/robot-chassis.webp" width="200" /> |
-| [Small Breadboard](https://www.canadarobotix.com/products/223)                       | <img src="\img\docs\microbit\breadboard.webp" width="200" /> |
-| [2x Flex Sensors](https://www.canadarobotix.com/products/2290)                        | <img src="/img/docs/microbit/flex-sensors.webp" width="200" /> |
-| [Jumper Wires](https://www.canadarobotix.com/products/922)                           | <img src="\img\docs\microbit\jumper-wires.webp" width="200" /> |
-| [2x 100nF Ceramic Capacitors](https://www.canadarobotix.com/products/1087)            | <img src="\img\docs\microbit\100nF_capacitor.webp" width="200" /> |
-| 2x 211 kΩ ±0.5% Resistors              | <img src="\img\docs\microbit\resistors.webp" width="200" /> |
-| 1x 130 Ω ±0.5% Resistor                | <img src="\img\docs\microbit\resistors.webp" width="200" /> |
-| [1x Button](https://www.canadarobotix.com/products/545)                              | <img src="\img\docs\microbit\switch-button.webp" width="200" /> |
+| [BBC micro:bit v2 Go Bundle](https://www.canadarobotix.com/products/2647?variant=32508815310897)                       | <img src="/img/docs/projects/microbit/microbit.webp" width="200" /> | 
+| Micro:bit compatible breakout board     | <img src="/img/docs/projects/microbit/breakout-board.jpg" width="200" /> |
+| [4x AA Batteries](https://www.canadarobotix.com/products/1916)                        | <img src="/img/docs/projects/microbit/batteries.webp" width="200" /> |
+| [Motor Shield V3](https://www.canadarobotix.com/products/2337)                        | <img src="/img/docs/projects/microbit/motor-shield.webp" width="200" /> |
+| [Robot Chassis Kit](https://www.canadarobotix.com/products/2794)                           | <img src="/img/docs/projects/microbit/robot-chassis.webp" width="200" /> |
+| [Small Breadboard](https://www.canadarobotix.com/products/223)                       | <img src="/img/docs/projects/microbit/breadboard.webp" width="200" /> |
+| [2x Flex Sensors](https://www.canadarobotix.com/products/2290)                        | <img src="/img/docs/projects/microbit/flex-sensors.webp" width="200" /> |
+| [Jumper Wires](https://www.canadarobotix.com/products/922)                           | <img src="/img/docs/projects/microbit/jumper-wires.webp" width="200" /> |
+| [2x 100nF Ceramic Capacitors](https://www.canadarobotix.com/products/1087)            | <img src="/img/docs/projects/microbit/100nF_capacitor.webp" width="200" /> |
+| 2x 211 kΩ ±0.5% Resistors              | <img src="/img/docs/projects/microbit/100nF_capacitor.webp" width="200" /> |
+| 1x 130 Ω ±0.5% Resistor                | <img src="/img/docs/projects/microbit/resistors.webp" width="200" /> |
+| [1x Button](https://www.canadarobotix.com/products/545)                              | <img src="/img/docs/projects/microbit/switch-button.webp" width="200" /> |
 
 ## Hardware Setup
 
