@@ -12,5 +12,3 @@ The robot uses DC motors for movement, which are controlled by the Adafruit Moto
 The sensory system consists of two simple flex sensors of which the working is illustrated below:
 
 <img src="\img\docs\microbit\microbit_3.png" width="700" />
-
-"This is testing the auto-deploy workflow"
