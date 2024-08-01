@@ -13,4 +13,4 @@ The sensory system consists of two simple flex sensors of which the working is i
 
 <img src="\img\docs\microbit\microbit_3.png" width="700" />
 
-MWAHAHAHA test.......
+"This is testing the auto-deploy workflow"
