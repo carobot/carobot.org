@@ -79,11 +79,11 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '98e'),
+    component: ComponentCreator('/docs', '67a'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '425'),
+        component: ComponentCreator('/docs', '4cf'),
         routes: [
           {
             path: '/docs',
