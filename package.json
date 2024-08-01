@@ -56,5 +56,9 @@
   },
   "engines": {
     "node": ">=18.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/carobot/carobot.org.git",
+  "author": "Maria Salonga <97309013+mariasalonga@users.noreply.github.com>",
+  "license": "MIT"
 }
