@@ -22,7 +22,7 @@ const sidebars = {
 
   projectsSidebar: [
     {
-      'Projects': 
+      'Robots': 
       [
         'projects/ant-robot',
         'projects/bat-robot',
