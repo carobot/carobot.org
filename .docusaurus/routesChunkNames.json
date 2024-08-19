@@ -127,17 +127,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-67a": {
+  "/docs-af8": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-4cf": {
+  "/docs-d61": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-7a6": {
+  "/docs-f29": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/about-us-64f": {
@@ -171,62 +171,6 @@
   "/docs/projects/canada-goose-robot-373": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-canada-goose-robot-5-c-8-578"
-  },
-  "/docs/projects/ESP32-Starter-Kit/Components-and-Installation-cb7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-esp-32-starter-kit-components-and-installationa-69-7c1"
-  },
-  "/docs/projects/ESP32-Starter-Kit/Introduction-a2c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-esp-32-starter-kit-introduction-7-c-7-0de"
-  },
-  "/docs/projects/ESP32-Starter-Kit/Project-1-bb1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-esp-32-starter-kit-project-1579-f77"
-  },
-  "/docs/projects/ESP32-Starter-Kit/Project-2-f26": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-esp-32-starter-kit-project-2040-d81"
-  },
-  "/docs/projects/ESP32-Starter-Kit/Project-3-b50": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-esp-32-starter-kit-project-3-c-9-f-eba"
-  },
-  "/docs/projects/ESP32-Starter-Kit/Project-4-8c0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-esp-32-starter-kit-project-4-f-6-a-924"
-  },
-  "/docs/projects/ESP32-Starter-Kit/Project-5.1-a85": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-esp-32-starter-kit-project-5-1-e-2-a-e78"
-  },
-  "/docs/projects/ESP32-Starter-Kit/Project-5.2-445": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-esp-32-starter-kit-project-5-28-d-9-1fe"
-  },
-  "/docs/projects/ESP32-Starter-Kit/Project-6.1-5c6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-esp-32-starter-kit-project-6-1-c-1-b-dbc"
-  },
-  "/docs/projects/ESP32-Starter-Kit/Project-6.2-540": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-esp-32-starter-kit-project-6-238-c-c63"
-  },
-  "/docs/projects/Ethanol-Detector/Getting-Started-3dc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-ethanol-detector-getting-started-69-e-aed"
-  },
-  "/docs/projects/Ethanol-Detector/Introduction-721": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-ethanol-detector-introduction-292-5ea"
-  },
-  "/docs/projects/Ethanol-Detector/Testing-5fa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-ethanol-detector-testing-037-0a5"
-  },
-  "/docs/projects/Ethanol-Detector/Working-Principle-095": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-ethanol-detector-working-principle-121-d52"
   },
   "/docs/projects/fly-robot-cd7": {
     "__comp": "__comp---theme-doc-item-178-a40",
