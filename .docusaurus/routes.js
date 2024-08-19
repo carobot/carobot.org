@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '67a'),
+    component: ComponentCreator('/docs', 'af8'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '4cf'),
+        component: ComponentCreator('/docs', 'd61'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '7a6'),
+            component: ComponentCreator('/docs', 'f29'),
             routes: [
               {
                 path: '/docs/about-us',
@@ -133,90 +133,6 @@ export default [
               {
                 path: '/docs/projects/canada-goose-robot',
                 component: ComponentCreator('/docs/projects/canada-goose-robot', '373'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/ESP32-Starter-Kit/Components-and-Installation',
-                component: ComponentCreator('/docs/projects/ESP32-Starter-Kit/Components-and-Installation', 'cb7'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/ESP32-Starter-Kit/Introduction',
-                component: ComponentCreator('/docs/projects/ESP32-Starter-Kit/Introduction', 'a2c'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/ESP32-Starter-Kit/Project-1',
-                component: ComponentCreator('/docs/projects/ESP32-Starter-Kit/Project-1', 'bb1'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/ESP32-Starter-Kit/Project-2',
-                component: ComponentCreator('/docs/projects/ESP32-Starter-Kit/Project-2', 'f26'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/ESP32-Starter-Kit/Project-3',
-                component: ComponentCreator('/docs/projects/ESP32-Starter-Kit/Project-3', 'b50'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/ESP32-Starter-Kit/Project-4',
-                component: ComponentCreator('/docs/projects/ESP32-Starter-Kit/Project-4', '8c0'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/ESP32-Starter-Kit/Project-5.1',
-                component: ComponentCreator('/docs/projects/ESP32-Starter-Kit/Project-5.1', 'a85'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/ESP32-Starter-Kit/Project-5.2',
-                component: ComponentCreator('/docs/projects/ESP32-Starter-Kit/Project-5.2', '445'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/ESP32-Starter-Kit/Project-6.1',
-                component: ComponentCreator('/docs/projects/ESP32-Starter-Kit/Project-6.1', '5c6'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/ESP32-Starter-Kit/Project-6.2',
-                component: ComponentCreator('/docs/projects/ESP32-Starter-Kit/Project-6.2', '540'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/Ethanol-Detector/Getting-Started',
-                component: ComponentCreator('/docs/projects/Ethanol-Detector/Getting-Started', '3dc'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/Ethanol-Detector/Introduction',
-                component: ComponentCreator('/docs/projects/Ethanol-Detector/Introduction', '721'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/Ethanol-Detector/Testing',
-                component: ComponentCreator('/docs/projects/Ethanol-Detector/Testing', '5fa'),
-                exact: true,
-                sidebar: "projectsSidebar"
-              },
-              {
-                path: '/docs/projects/Ethanol-Detector/Working-Principle',
-                component: ComponentCreator('/docs/projects/Ethanol-Detector/Working-Principle', '095'),
                 exact: true,
                 sidebar: "projectsSidebar"
               },
