@@ -6,7 +6,9 @@ const sidebars = {
   navigationSidebar: [
     'about-us',
     {
-      'Meet the Directors' : ['Directors and Executives/Directors','Directors and Executives/Executives'],
+      'Meet the Directors' : [
+        'Directors and Executives/Directors',
+        'Directors and Executives/Executives'],
     },
   ],
 
@@ -15,58 +17,14 @@ const sidebars = {
       'Tutorials': [
         'tutorials/Introduction',
         'tutorials/CarduBlock-Edu-Tutorial',
-        {
-          'Chassis Robot':[
-            'tutorials/chassis-robot/chassis-robot',
-            'tutorials/chassis-robot/building',
-            'tutorials/chassis-robot/programming',
-            'tutorials/chassis-robot/wiring',
-          ]
-        },
-        {
-          'Discovery Kit':[
-            'tutorials/discovery-kit/discovery-kit',
-            'tutorials/discovery-kit/introduction',
-            'tutorials/discovery-kit/arduino-hardware',
-          ]
-        },
-        {
-          'Introduction to C':[
-            'tutorials/intro-to-C/c01-beginning',
-            'tutorials/intro-to-C/c02-types',
-            'tutorials/intro-to-C/c03-literals',
-            'tutorials/intro-to-C/c04-operator',
-            'tutorials/intro-to-C/c05-constructs',
-            'tutorials/intro-to-C/c06-arrays',
-            'tutorials/intro-to-C/c07-functions',
-            'tutorials/intro-to-C/c08-data-conversions',
-          ]
-        },
-        {
-          'KiCAD Tutorial':[
-            'tutorials/kicad/kicad',
-            'tutorials/kicad/kicad-basic',
-          ]
-        },
         'tutorials/robot-with-real-time-temperature-display',
-        {
-          'TinkerKit LCD Tutorial':[
-            'tutorials/tinkerkit/tinkerkit-lcd-0',
-            'tutorials/tinkerkit/tinkerkit-lcd-1',
-            'tutorials/tinkerkit/tinkerkit-lcd-2',
-            'tutorials/tinkerkit/tinkerkit-lcd-3',
-            'tutorials/tinkerkit/tinkerkit-lcd-4',
-            'tutorials/tinkerkit/tinkerkit-lcd-5',
-            'tutorials/tinkerkit/tinkerkit-lcd-6',
-          ]
-        },
       ],
     }
   ],
 
   projectsSidebar: [
     {
-      'Projects': 
+      'Robots': 
       [
         'projects/ant-robot',
         'projects/bat-robot',
@@ -75,6 +33,11 @@ const sidebars = {
         'projects/fly-robot',
         'projects/guard-dog-robot',
         'projects/moth-robot'
+      ],
+      'Microbit Robot':[
+        'projects/Microbit-Robot/Introduction',
+        'projects/Microbit-Robot/Getting-Started',
+        'projects/Microbit-Robot/Working-Principle',
       ],
     }
   ],

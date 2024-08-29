@@ -14,7 +14,7 @@ export default [
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '466'),
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
     exact: true
   },
   {
@@ -39,27 +39,27 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'f2f'),
+    component: ComponentCreator('/blog', '725'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '245'),
+    component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '4c4'),
+    component: ComponentCreator('/blog/tags', '287'),
     exact: true
   },
   {
     path: '/blog/tags/announcement',
-    component: ComponentCreator('/blog/tags/announcement', 'c32'),
+    component: ComponentCreator('/blog/tags/announcement', '6f2'),
     exact: true
   },
   {
     path: '/blog/tags/outreach',
-    component: ComponentCreator('/blog/tags/outreach', 'ce5'),
+    component: ComponentCreator('/blog/tags/outreach', '4d9'),
     exact: true
   },
   {
@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '288'),
+    component: ComponentCreator('/docs', 'af8'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b70'),
+        component: ComponentCreator('/docs', 'd61'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'b1b'),
+            component: ComponentCreator('/docs', 'f29'),
             routes: [
               {
                 path: '/docs/about-us',
@@ -149,6 +149,24 @@ export default [
                 sidebar: "projectsSidebar"
               },
               {
+                path: '/docs/projects/Microbit-Robot/Getting-Started',
+                component: ComponentCreator('/docs/projects/Microbit-Robot/Getting-Started', '505'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Microbit-Robot/Introduction',
+                component: ComponentCreator('/docs/projects/Microbit-Robot/Introduction', 'f20'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
+                path: '/docs/projects/Microbit-Robot/Working-Principle',
+                component: ComponentCreator('/docs/projects/Microbit-Robot/Working-Principle', '382'),
+                exact: true,
+                sidebar: "projectsSidebar"
+              },
+              {
                 path: '/docs/projects/moth-robot',
                 component: ComponentCreator('/docs/projects/moth-robot', 'a62'),
                 exact: true,
@@ -171,163 +189,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorials/chassis-robot/',
-                component: ComponentCreator('/docs/tutorials/chassis-robot/', '0b1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/chassis-robot/building',
-                component: ComponentCreator('/docs/tutorials/chassis-robot/building', '173'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/chassis-robot/programming',
-                component: ComponentCreator('/docs/tutorials/chassis-robot/programming', '8fb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/chassis-robot/wiring',
-                component: ComponentCreator('/docs/tutorials/chassis-robot/wiring', 'd6e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/discovery-kit/',
-                component: ComponentCreator('/docs/tutorials/discovery-kit/', 'd86'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/discovery-kit/arduino-hardware',
-                component: ComponentCreator('/docs/tutorials/discovery-kit/arduino-hardware', '536'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/discovery-kit/introduction',
-                component: ComponentCreator('/docs/tutorials/discovery-kit/introduction', '2fc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c01-beginning',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c01-beginning', 'b8f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c02-types',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c02-types', 'f5f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c03-literals',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c03-literals', '297'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c04-operator',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c04-operator', '1b7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c05-constructs',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c05-constructs', 'f9f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c06-arrays',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c06-arrays', 'd12'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c07-functions',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c07-functions', '8c9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/intro-to-C/c08-data-conversions',
-                component: ComponentCreator('/docs/tutorials/intro-to-C/c08-data-conversions', '0c5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/tutorials/Introduction',
                 component: ComponentCreator('/docs/tutorials/Introduction', 'eae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorials/kicad/',
-                component: ComponentCreator('/docs/tutorials/kicad/', '5e1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/kicad/kicad-basic',
-                component: ComponentCreator('/docs/tutorials/kicad/kicad-basic', '8f6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/tutorials/robot-with-real-time-temperature-display',
                 component: ComponentCreator('/docs/tutorials/robot-with-real-time-temperature-display', '3a3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/', 'b57'),
-                exact: true
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-01-windows-installation-guide',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-01-windows-installation-guide', '15d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-02-introduction-to-lcd',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-02-introduction-to-lcd', 'c29'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-03-lcd-serial',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-03-lcd-serial', '301'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-04-lcd-local-no-arduino',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-04-lcd-local-no-arduino', 'b50'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-05-arduino-2-wires',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-05-arduino-2-wires', '065'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-06-arduino-2-wires',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-06-arduino-2-wires', '13f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorials',
-                component: ComponentCreator('/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorials', '5e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

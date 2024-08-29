@@ -60,6 +60,21 @@
               "sidebar": "projectsSidebar"
             },
             {
+              "id": "projects/Microbit-Robot/Getting-Started",
+              "path": "/docs/projects/Microbit-Robot/Getting-Started",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/Microbit-Robot/Introduction",
+              "path": "/docs/projects/Microbit-Robot/Introduction",
+              "sidebar": "projectsSidebar"
+            },
+            {
+              "id": "projects/Microbit-Robot/Working-Principle",
+              "path": "/docs/projects/Microbit-Robot/Working-Principle",
+              "sidebar": "projectsSidebar"
+            },
+            {
               "id": "projects/moth-robot",
               "path": "/docs/projects/moth-robot",
               "sidebar": "projectsSidebar"
@@ -78,137 +93,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/chassis-robot/building",
-              "path": "/docs/tutorials/chassis-robot/building",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/chassis-robot/chassis-robot",
-              "path": "/docs/tutorials/chassis-robot/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/chassis-robot/programming",
-              "path": "/docs/tutorials/chassis-robot/programming",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/chassis-robot/wiring",
-              "path": "/docs/tutorials/chassis-robot/wiring",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/discovery-kit/arduino-hardware",
-              "path": "/docs/tutorials/discovery-kit/arduino-hardware",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/discovery-kit/discovery-kit",
-              "path": "/docs/tutorials/discovery-kit/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/discovery-kit/introduction",
-              "path": "/docs/tutorials/discovery-kit/introduction",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/intro-to-C/c01-beginning",
-              "path": "/docs/tutorials/intro-to-C/c01-beginning",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/intro-to-C/c02-types",
-              "path": "/docs/tutorials/intro-to-C/c02-types",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/intro-to-C/c03-literals",
-              "path": "/docs/tutorials/intro-to-C/c03-literals",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/intro-to-C/c04-operator",
-              "path": "/docs/tutorials/intro-to-C/c04-operator",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/intro-to-C/c05-constructs",
-              "path": "/docs/tutorials/intro-to-C/c05-constructs",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/intro-to-C/c06-arrays",
-              "path": "/docs/tutorials/intro-to-C/c06-arrays",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/intro-to-C/c07-functions",
-              "path": "/docs/tutorials/intro-to-C/c07-functions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/intro-to-C/c08-data-conversions",
-              "path": "/docs/tutorials/intro-to-C/c08-data-conversions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tutorials/Introduction",
               "path": "/docs/tutorials/Introduction",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorials/kicad/kicad",
-              "path": "/docs/tutorials/kicad/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/kicad/kicad-basic",
-              "path": "/docs/tutorials/kicad/kicad-basic",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tutorials/robot-with-real-time-temperature-display",
               "path": "/docs/tutorials/robot-with-real-time-temperature-display",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/tinkerkit/tinkerkit",
-              "path": "/docs/tutorials/tinkerkit/"
-            },
-            {
-              "id": "tutorials/tinkerkit/tinkerkit-lcd-0",
-              "path": "/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorials",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/tinkerkit/tinkerkit-lcd-1",
-              "path": "/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-01-windows-installation-guide",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/tinkerkit/tinkerkit-lcd-2",
-              "path": "/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-02-introduction-to-lcd",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/tinkerkit/tinkerkit-lcd-3",
-              "path": "/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-03-lcd-serial",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/tinkerkit/tinkerkit-lcd-4",
-              "path": "/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-04-lcd-local-no-arduino",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/tinkerkit/tinkerkit-lcd-5",
-              "path": "/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-05-arduino-2-wires",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorials/tinkerkit/tinkerkit-lcd-6",
-              "path": "/docs/tutorials/tinkerkit/tinkerkit-lcd-tutorial-06-arduino-2-wires",
               "sidebar": "tutorialSidebar"
             }
           ],
