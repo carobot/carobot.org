@@ -6,6 +6,44 @@ sidebar_position: 1
  
 ArduBlock is a simple, fast, and fun way to program the CAROBOT SwissCHEESE. ArduBlock is a graphical programming language for Arduino that’s almost the same as Scratch. To follow this tutorial, you will need a computer and a CAROBOT SwissCHEESE education kit, including an Arduino Uno. This tutorial will be using the CarduBlock Edu branch of ArduBlock, a simplified version of the program that’s specialized for the SwissCHEESE.
 
+# Setup: Install CarduBlock
+
+## On Windows
+
+1. Download and install the Arduino IDE from [here](https://www.arduino.cc/en/software/).
+2. Download the [CarduBlock EDU.zip](https://github.com/carobot/CarduBlock-EDU/releases/download/v1.0/cardublock-edu-1.0.zip).
+3. Open and extract the content from the zip file.
+4. Identify your Arduino Sketchbook location (the folder where your sketch is saved). You can find this by going to **File > Preferences** in your Arduino IDE.
+5. Open the Arduino Sketchbook location.
+6. Copy and paste the extracted content to the Arduino folder.
+7. Restart the Arduino IDE.
+
+## On macOS
+
+1. Download and install the Arduino IDE from [here](https://www.arduino.cc/en/software/).
+2. Download the [CarduBlock EDU.zip](https://github.com/carobot/CarduBlock-EDU/releases/download/v1.0/cardublock-edu-1.0.zip).
+3. Extract the zip file and open the `cardublock-edu-1.0` folder.
+4. Copy the `tools` folder.
+5. Identify your Arduino Sketchbook location (the folder where your sketch is saved). You can find this by opening Arduino IDE and going to **Arduino > Preferences** on your menu bar.
+6. Open the Arduino Sketchbook location.
+7. Paste the `tools` folder you copied earlier into the Arduino folder. The files in your Arduino folder should look the same as the photo below.
+8. Restart the Arduino IDE.
+
+You should now be able to open CarduBlock Edu through Arduino. Open CarduBlock EDU by clicking **Tools > CarduBlock Edu**.
+
+### Installing the SwissCHEESE Library
+
+**Note:** Your code won’t compile until you install the SwissCHEESE library.
+
+#### Steps to Install the SwissCHEESE Library:
+
+1. Download the [SwissCHEESE Library](https://github.com/carobot/CAROBOT-SwissCHEESE/archive/refs/heads/master.zip).
+2. Open the Arduino library folder at: `[sketchbook location]\libraries`.
+3. Extract and copy the content to the Arduino libraries folder.
+4. **Do not create a new folder for the SwissCHEESE library.** The files in the libraries folder should look the same as the picture below.
+
+Now your SwissCHEESE code will compile! Remember to select the **Board** and **Serial Port**—always do this, as the CarduBlock EDU interface will not remind you when you click upload.
+
 ### Contents
 <!-- These should all be links to the products where you can purchase each part -->
 - CAROBOT SwissCHEESE
